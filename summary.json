@@ -1,0 +1,16 @@
+{
+  "n_customers": 2500,
+  "silhouette_by_k": {
+    "2": 0.397,
+    "3": 0.422,
+    "4": 0.366,
+    "5": 0.362,
+    "6": 0.361,
+    "7": 0.331,
+    "8": 0.327
+  },
+  "total_spend": 1250000,
+  "blended_ROAS": 5.6,
+  "est_net_revenue_change_inr": 1564996,
+  "data_note": "SYNTHETIC unless data/ files were replaced with real data"
+}

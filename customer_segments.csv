@@ -1,0 +1,2501 @@
+CustomerID,Recency,Frequency,Monetary,Cluster,Segment
+10000,163,4,410.61,2,At Risk - High Value
+10001,13,2,80.24,4,New / Promising
+10002,276,5,558.24,2,At Risk - High Value
+10003,45,8,535.09,0,Loyal
+10004,11,10,709.1700000000001,3,Champions
+10005,2,1,11.7,4,New / Promising
+10006,24,12,1398.82,3,Champions
+10007,193,5,588.34,2,At Risk - High Value
+10008,192,5,416.46,2,At Risk - High Value
+10009,84,3,120.85,1,Lapsed / Low Value
+10010,44,11,533.23,0,Loyal
+10011,46,9,620.75,0,Loyal
+10012,44,5,312.0,0,Loyal
+10013,36,3,131.14,0,Loyal
+10014,120,6,309.12,2,At Risk - High Value
+10015,49,4,301.01,0,Loyal
+10016,3,1,17.549999999999997,4,New / Promising
+10017,215,5,507.51000000000005,2,At Risk - High Value
+10018,93,5,247.01,2,At Risk - High Value
+10019,19,1,18.53,4,New / Promising
+10020,26,8,668.22,0,Loyal
+10021,54,10,639.49,0,Loyal
+10022,37,1,41.1,4,New / Promising
+10023,8,15,1607.83,3,Champions
+10024,11,12,1834.46,3,Champions
+10025,100,5,419.62,2,At Risk - High Value
+10026,196,3,153.56,2,At Risk - High Value
+10027,29,1,16.75,4,New / Promising
+10028,92,2,215.89999999999998,1,Lapsed / Low Value
+10029,92,4,106.84,2,At Risk - High Value
+10030,193,2,236.57,2,At Risk - High Value
+10031,12,5,555.22,0,Loyal
+10032,5,16,1450.16,3,Champions
+10033,48,11,619.9399999999999,0,Loyal
+10034,330,3,73.16,1,Lapsed / Low Value
+10035,32,9,583.98,0,Loyal
+10036,53,2,82.1,1,Lapsed / Low Value
+10037,5,22,2043.96,3,Champions
+10038,224,2,108.77,1,Lapsed / Low Value
+10039,36,9,715.93,0,Loyal
+10040,54,7,375.55,0,Loyal
+10041,24,1,50.48,4,New / Promising
+10042,79,2,251.7,1,Lapsed / Low Value
+10043,314,4,325.52,2,At Risk - High Value
+10044,170,2,226.37,1,Lapsed / Low Value
+10045,209,3,220.57999999999998,2,At Risk - High Value
+10046,12,10,929.8599999999999,3,Champions
+10047,37,1,79.4,4,New / Promising
+10048,188,3,57.64,1,Lapsed / Low Value
+10049,35,1,53.16,4,New / Promising
+10050,74,3,247.44,2,At Risk - High Value
+10051,182,6,397.21000000000004,2,At Risk - High Value
+10052,10,11,933.66,3,Champions
+10053,162,3,85.13,1,Lapsed / Low Value
+10054,42,3,111.88,1,Lapsed / Low Value
+10055,40,8,347.44,0,Loyal
+10056,311,3,181.36,2,At Risk - High Value
+10057,119,3,135.51,1,Lapsed / Low Value
+10058,6,1,121.05000000000001,4,New / Promising
+10059,97,2,54.99,1,Lapsed / Low Value
+10060,38,2,119.97999999999999,1,Lapsed / Low Value
+10061,129,1,5.99,1,Lapsed / Low Value
+10062,337,3,173.28,2,At Risk - High Value
+10063,56,8,656.0799999999999,0,Loyal
+10064,52,3,116.58,1,Lapsed / Low Value
+10065,10,7,409.71,0,Loyal
+10066,38,3,363.83,0,Loyal
+10067,21,11,1238.19,3,Champions
+10068,17,1,5.54,4,New / Promising
+10069,49,6,262.24,0,Loyal
+10070,229,4,144.15,2,At Risk - High Value
+10071,9,5,344.03,0,Loyal
+10072,9,1,11.27,4,New / Promising
+10073,214,4,296.41999999999996,2,At Risk - High Value
+10074,28,3,282.03,0,Loyal
+10075,336,4,194.08,2,At Risk - High Value
+10076,19,1,10.26,4,New / Promising
+10077,35,1,55.72,4,New / Promising
+10078,35,3,157.11,0,Loyal
+10079,23,5,339.38,0,Loyal
+10080,46,3,113.17,1,Lapsed / Low Value
+10081,10,1,13.22,4,New / Promising
+10082,116,2,68.45,1,Lapsed / Low Value
+10083,6,10,845.06,3,Champions
+10084,4,1,76.12,4,New / Promising
+10085,163,4,258.68,2,At Risk - High Value
+10086,165,6,219.82,2,At Risk - High Value
+10087,135,3,154.46,2,At Risk - High Value
+10088,170,1,75.2,1,Lapsed / Low Value
+10089,51,9,727.94,0,Loyal
+10090,13,7,406.7,0,Loyal
+10091,13,1,22.53,4,New / Promising
+10092,59,1,62.65,1,Lapsed / Low Value
+10093,146,2,194.25,1,Lapsed / Low Value
+10094,98,1,108.68,1,Lapsed / Low Value
+10095,311,2,146.73000000000002,1,Lapsed / Low Value
+10096,5,11,1547.34,3,Champions
+10097,124,7,464.74,2,At Risk - High Value
+10098,7,15,1717.14,3,Champions
+10099,41,7,700.95,0,Loyal
+10100,33,2,206.74,1,Lapsed / Low Value
+10101,232,3,137.48,2,At Risk - High Value
+10102,66,4,305.22,0,Loyal
+10103,41,3,234.38000000000002,0,Loyal
+10104,7,1,59.5,4,New / Promising
+10105,136,3,98.43,1,Lapsed / Low Value
+10106,186,2,174.2,1,Lapsed / Low Value
+10107,251,4,330.15,2,At Risk - High Value
+10108,146,3,244.89,2,At Risk - High Value
+10109,84,1,43.72,1,Lapsed / Low Value
+10110,182,8,331.21000000000004,2,At Risk - High Value
+10111,22,2,128.16,4,New / Promising
+10112,30,3,196.03,0,Loyal
+10113,12,1,11.38,4,New / Promising
+10114,24,12,1220.42,3,Champions
+10115,284,3,253.43,2,At Risk - High Value
+10116,301,5,223.54000000000002,2,At Risk - High Value
+10117,20,6,476.57,0,Loyal
+10118,59,2,119.31,1,Lapsed / Low Value
+10119,260,4,393.89,2,At Risk - High Value
+10120,2,12,1289.03,3,Champions
+10121,104,2,93.27,1,Lapsed / Low Value
+10122,356,3,105.84,2,At Risk - High Value
+10123,123,1,90.6,1,Lapsed / Low Value
+10124,202,3,477.8,2,At Risk - High Value
+10125,57,8,678.91,0,Loyal
+10126,52,2,142.10000000000002,1,Lapsed / Low Value
+10127,82,5,228.64000000000001,2,At Risk - High Value
+10128,51,7,474.41,0,Loyal
+10129,161,2,103.78999999999999,1,Lapsed / Low Value
+10130,10,1,73.86,4,New / Promising
+10131,90,2,103.1,1,Lapsed / Low Value
+10132,146,2,73.86,1,Lapsed / Low Value
+10133,55,4,235.62,0,Loyal
+10134,8,2,111.84,4,New / Promising
+10135,95,4,81.25,1,Lapsed / Low Value
+10136,30,1,39.24,4,New / Promising
+10137,197,4,174.77,2,At Risk - High Value
+10138,50,7,512.0899999999999,0,Loyal
+10139,10,2,115.32,4,New / Promising
+10140,329,2,270.83,2,At Risk - High Value
+10141,101,3,72.42999999999999,1,Lapsed / Low Value
+10142,172,1,16.06,1,Lapsed / Low Value
+10143,5,1,58.4,4,New / Promising
+10144,131,3,236.03,2,At Risk - High Value
+10145,20,1,51.72,4,New / Promising
+10146,21,14,1706.09,3,Champions
+10147,102,5,299.11,2,At Risk - High Value
+10148,133,4,223.13,2,At Risk - High Value
+10149,1,1,70.0,4,New / Promising
+10150,41,3,141.23000000000002,0,Loyal
+10151,183,3,271.05,2,At Risk - High Value
+10152,352,3,318.51,2,At Risk - High Value
+10153,205,5,211.31,2,At Risk - High Value
+10154,195,1,129.95,1,Lapsed / Low Value
+10155,21,2,143.45999999999998,4,New / Promising
+10156,44,1,116.36,1,Lapsed / Low Value
+10157,145,2,66.07,1,Lapsed / Low Value
+10158,31,8,549.6,0,Loyal
+10159,19,14,1768.6000000000001,3,Champions
+10160,50,7,546.65,0,Loyal
+10161,30,1,17.82,4,New / Promising
+10162,260,1,44.14,1,Lapsed / Low Value
+10163,53,9,551.24,0,Loyal
+10164,192,8,448.83,2,At Risk - High Value
+10165,176,2,260.15,2,At Risk - High Value
+10166,33,1,48.44,4,New / Promising
+10167,274,4,194.25,2,At Risk - High Value
+10168,19,5,536.93,0,Loyal
+10169,34,2,60.36,4,New / Promising
+10170,123,1,86.19999999999999,1,Lapsed / Low Value
+10171,30,3,146.52,0,Loyal
+10172,54,1,64.4,1,Lapsed / Low Value
+10173,34,10,709.6800000000001,0,Loyal
+10174,20,15,1403.32,3,Champions
+10175,189,5,299.59,2,At Risk - High Value
+10176,247,1,26.08,1,Lapsed / Low Value
+10177,294,4,219.66,2,At Risk - High Value
+10178,269,4,260.99,2,At Risk - High Value
+10179,27,5,459.45000000000005,0,Loyal
+10180,1,2,121.93,4,New / Promising
+10181,253,4,389.39000000000004,2,At Risk - High Value
+10182,12,2,60.11,4,New / Promising
+10183,65,6,332.84000000000003,0,Loyal
+10184,19,3,90.8,4,New / Promising
+10185,25,12,1819.27,3,Champions
+10186,3,20,2250.48,3,Champions
+10187,13,15,1348.51,3,Champions
+10188,55,11,543.78,0,Loyal
+10189,36,2,84.88000000000001,4,New / Promising
+10190,10,9,306.27,0,Loyal
+10191,193,3,334.05,2,At Risk - High Value
+10192,11,21,2223.55,3,Champions
+10193,66,3,171.96,1,Lapsed / Low Value
+10194,28,5,332.56,0,Loyal
+10195,349,4,276.77,2,At Risk - High Value
+10196,28,8,979.22,0,Loyal
+10197,54,12,477.97,0,Loyal
+10198,15,1,11.95,4,New / Promising
+10199,162,5,259.12,2,At Risk - High Value
+10200,202,2,227.85000000000002,2,At Risk - High Value
+10201,337,2,97.54,1,Lapsed / Low Value
+10202,72,2,74.8,1,Lapsed / Low Value
+10203,44,5,323.14000000000004,0,Loyal
+10204,62,3,275.78000000000003,0,Loyal
+10205,13,12,1231.87,3,Champions
+10206,336,4,223.93,2,At Risk - High Value
+10207,34,2,82.17,4,New / Promising
+10208,31,1,67.85,4,New / Promising
+10209,9,12,1031.3,3,Champions
+10210,145,2,131.86,1,Lapsed / Low Value
+10211,41,4,335.07,0,Loyal
+10212,37,3,200.52,0,Loyal
+10213,127,2,228.61,1,Lapsed / Low Value
+10214,215,4,255.0,2,At Risk - High Value
+10215,29,5,401.64,0,Loyal
+10216,34,1,59.4,4,New / Promising
+10217,213,7,307.89,2,At Risk - High Value
+10218,32,6,367.44,0,Loyal
+10219,350,4,357.03,2,At Risk - High Value
+10220,28,1,36.949999999999996,4,New / Promising
+10221,5,8,599.86,3,Champions
+10222,160,2,97.16,1,Lapsed / Low Value
+10223,167,2,192.51,1,Lapsed / Low Value
+10224,52,3,238.76,0,Loyal
+10225,29,11,1147.3,3,Champions
+10226,273,6,396.46999999999997,2,At Risk - High Value
+10227,179,4,188.82,2,At Risk - High Value
+10228,275,1,32.76,1,Lapsed / Low Value
+10229,197,2,105.77,1,Lapsed / Low Value
+10230,33,7,444.74,0,Loyal
+10231,243,5,448.98999999999995,2,At Risk - High Value
+10232,1,1,39.68,4,New / Promising
+10233,23,1,42.24,4,New / Promising
+10234,10,9,772.2299999999999,3,Champions
+10235,5,16,1960.68,3,Champions
+10236,195,6,286.52,2,At Risk - High Value
+10237,54,9,774.89,0,Loyal
+10238,92,2,83.58,1,Lapsed / Low Value
+10239,10,2,112.07,4,New / Promising
+10240,125,2,222.42000000000002,1,Lapsed / Low Value
+10241,14,4,349.78999999999996,0,Loyal
+10242,49,6,337.25,0,Loyal
+10243,263,1,46.44,1,Lapsed / Low Value
+10244,51,10,672.3000000000001,0,Loyal
+10245,103,2,162.61,1,Lapsed / Low Value
+10246,23,7,607.72,0,Loyal
+10247,264,8,702.53,2,At Risk - High Value
+10248,260,1,87.92999999999999,1,Lapsed / Low Value
+10249,181,3,122.64999999999999,1,Lapsed / Low Value
+10250,162,6,325.13,2,At Risk - High Value
+10251,152,1,29.2,1,Lapsed / Low Value
+10252,50,7,844.74,0,Loyal
+10253,49,5,363.29,0,Loyal
+10254,108,3,281.96999999999997,2,At Risk - High Value
+10255,132,1,34.86,1,Lapsed / Low Value
+10256,29,7,924.39,0,Loyal
+10257,191,3,210.66,2,At Risk - High Value
+10258,188,2,121.86999999999999,1,Lapsed / Low Value
+10259,52,3,305.11,0,Loyal
+10260,17,13,1041.04,3,Champions
+10261,276,3,195.64999999999998,2,At Risk - High Value
+10262,21,9,906.0799999999999,3,Champions
+10263,28,6,535.3,0,Loyal
+10264,56,6,249.82,0,Loyal
+10265,3,9,1304.0,3,Champions
+10266,2,2,102.87,4,New / Promising
+10267,27,12,1316.21,3,Champions
+10268,59,6,252.45999999999998,0,Loyal
+10269,302,3,255.34000000000003,2,At Risk - High Value
+10270,59,1,38.42,4,New / Promising
+10271,39,10,825.0,0,Loyal
+10272,96,2,136.44,1,Lapsed / Low Value
+10273,36,1,15.28,4,New / Promising
+10274,61,6,316.27,0,Loyal
+10275,316,11,444.89,2,At Risk - High Value
+10276,27,12,964.49,3,Champions
+10277,300,6,294.05,2,At Risk - High Value
+10278,346,6,396.87,2,At Risk - High Value
+10279,345,5,465.35,2,At Risk - High Value
+10280,317,4,255.54999999999998,2,At Risk - High Value
+10281,34,2,63.120000000000005,4,New / Promising
+10282,13,14,1387.2,3,Champions
+10283,150,2,162.14000000000001,1,Lapsed / Low Value
+10284,294,6,237.17000000000002,2,At Risk - High Value
+10285,15,9,607.74,3,Champions
+10286,43,8,418.33,0,Loyal
+10287,39,3,77.22,1,Lapsed / Low Value
+10288,275,5,257.06,2,At Risk - High Value
+10289,22,1,111.16,4,New / Promising
+10290,5,7,346.45,3,Champions
+10291,35,4,124.38,0,Loyal
+10292,315,4,346.03,2,At Risk - High Value
+10293,192,1,43.24,1,Lapsed / Low Value
+10294,216,5,221.04,2,At Risk - High Value
+10295,37,1,107.56,4,New / Promising
+10296,17,1,111.1,4,New / Promising
+10297,332,1,31.2,1,Lapsed / Low Value
+10298,304,2,114.09,1,Lapsed / Low Value
+10299,77,1,38.92,1,Lapsed / Low Value
+10300,129,1,34.92,1,Lapsed / Low Value
+10301,31,8,629.15,0,Loyal
+10302,305,3,82.81,1,Lapsed / Low Value
+10303,212,5,333.48,2,At Risk - High Value
+10304,218,1,70.74,1,Lapsed / Low Value
+10305,78,4,154.56,2,At Risk - High Value
+10306,101,4,148.29999999999998,2,At Risk - High Value
+10307,164,6,374.59,2,At Risk - High Value
+10308,22,4,194.26,0,Loyal
+10309,299,2,149.76,1,Lapsed / Low Value
+10310,91,2,178.92000000000002,1,Lapsed / Low Value
+10311,197,3,176.51,2,At Risk - High Value
+10312,100,6,309.31,2,At Risk - High Value
+10313,276,7,485.15999999999997,2,At Risk - High Value
+10314,56,5,284.12,0,Loyal
+10315,287,5,352.88,2,At Risk - High Value
+10316,12,2,67.06,4,New / Promising
+10317,77,1,33.8,1,Lapsed / Low Value
+10318,52,7,465.66,0,Loyal
+10319,255,8,699.26,2,At Risk - High Value
+10320,34,1,16.8,4,New / Promising
+10321,55,8,665.96,0,Loyal
+10322,200,5,350.85,2,At Risk - High Value
+10323,260,5,215.51999999999998,2,At Risk - High Value
+10324,16,3,226.69,0,Loyal
+10325,22,9,620.38,0,Loyal
+10326,8,12,1380.44,3,Champions
+10327,3,1,16.64,4,New / Promising
+10328,30,5,519.28,0,Loyal
+10329,45,5,379.46000000000004,0,Loyal
+10330,106,2,241.63,1,Lapsed / Low Value
+10331,44,2,65.06,1,Lapsed / Low Value
+10332,218,3,182.66,2,At Risk - High Value
+10333,32,9,497.96999999999997,0,Loyal
+10334,12,4,166.04000000000002,0,Loyal
+10335,13,5,278.58,0,Loyal
+10336,242,3,96.63,1,Lapsed / Low Value
+10337,23,11,1113.04,3,Champions
+10338,184,3,193.74,2,At Risk - High Value
+10339,20,22,2288.96,3,Champions
+10340,38,11,845.37,3,Champions
+10341,59,6,712.93,0,Loyal
+10342,302,1,27.66,1,Lapsed / Low Value
+10343,51,4,75.02,1,Lapsed / Low Value
+10344,13,18,2435.69,3,Champions
+10345,29,1,80.64,4,New / Promising
+10346,3,2,31.89,4,New / Promising
+10347,16,1,64.7,4,New / Promising
+10348,46,5,335.16999999999996,0,Loyal
+10349,171,3,100.86,1,Lapsed / Low Value
+10350,18,9,534.48,0,Loyal
+10351,51,12,1201.51,3,Champions
+10352,22,14,1509.84,3,Champions
+10353,194,4,135.75,2,At Risk - High Value
+10354,42,4,454.48,0,Loyal
+10355,38,10,775.03,0,Loyal
+10356,12,1,31.98,4,New / Promising
+10357,172,2,47.5,1,Lapsed / Low Value
+10358,57,3,195.76,0,Loyal
+10359,279,6,464.11,2,At Risk - High Value
+10360,26,8,421.94,0,Loyal
+10361,42,3,330.29,0,Loyal
+10362,57,6,357.08,0,Loyal
+10363,37,2,58.32,4,New / Promising
+10364,129,1,110.05000000000001,1,Lapsed / Low Value
+10365,139,2,170.10000000000002,1,Lapsed / Low Value
+10366,44,4,157.82,0,Loyal
+10367,266,6,264.27,2,At Risk - High Value
+10368,37,1,60.6,4,New / Promising
+10369,5,7,393.63,3,Champions
+10370,58,9,604.98,0,Loyal
+10371,37,7,424.05,0,Loyal
+10372,8,1,48.03,4,New / Promising
+10373,24,1,78.24,4,New / Promising
+10374,23,8,486.09999999999997,0,Loyal
+10375,5,1,137.24,4,New / Promising
+10376,36,3,155.69,0,Loyal
+10377,163,1,51.04,1,Lapsed / Low Value
+10378,35,3,118.54,1,Lapsed / Low Value
+10379,31,1,17.84,4,New / Promising
+10380,26,10,684.1999999999999,3,Champions
+10381,45,7,507.59000000000003,0,Loyal
+10382,195,5,404.59999999999997,2,At Risk - High Value
+10383,22,16,1468.79,3,Champions
+10384,26,7,644.03,0,Loyal
+10385,47,3,157.68,0,Loyal
+10386,16,2,98.84,4,New / Promising
+10387,355,8,427.87,2,At Risk - High Value
+10388,188,3,221.48000000000002,2,At Risk - High Value
+10389,253,6,375.45,2,At Risk - High Value
+10390,359,3,136.71,2,At Risk - High Value
+10391,236,4,256.96000000000004,2,At Risk - High Value
+10392,351,7,350.04999999999995,2,At Risk - High Value
+10393,259,1,83.8,1,Lapsed / Low Value
+10394,10,7,419.25,0,Loyal
+10395,53,7,488.59,0,Loyal
+10396,318,4,248.39999999999998,2,At Risk - High Value
+10397,47,4,429.54999999999995,0,Loyal
+10398,12,1,49.699999999999996,4,New / Promising
+10399,118,3,134.44000000000003,1,Lapsed / Low Value
+10400,181,5,260.31,2,At Risk - High Value
+10401,39,1,58.44,4,New / Promising
+10402,58,4,334.83000000000004,0,Loyal
+10403,68,2,111.53,1,Lapsed / Low Value
+10404,26,10,1371.95,3,Champions
+10405,23,1,7.89,4,New / Promising
+10406,194,1,105.15,1,Lapsed / Low Value
+10407,289,8,655.72,2,At Risk - High Value
+10408,12,5,517.8399999999999,0,Loyal
+10409,237,2,45.72,1,Lapsed / Low Value
+10410,275,3,153.35,2,At Risk - High Value
+10411,196,1,71.15,1,Lapsed / Low Value
+10412,26,1,35.96,4,New / Promising
+10413,174,3,83.42,1,Lapsed / Low Value
+10414,99,3,262.35,2,At Risk - High Value
+10415,329,2,33.28,1,Lapsed / Low Value
+10416,211,5,159.67,2,At Risk - High Value
+10417,189,3,56.540000000000006,1,Lapsed / Low Value
+10418,347,4,320.16,2,At Risk - High Value
+10419,14,4,404.69,0,Loyal
+10420,135,3,97.87,1,Lapsed / Low Value
+10421,241,4,208.48,2,At Risk - High Value
+10422,16,13,1198.04,3,Champions
+10423,243,3,180.18,2,At Risk - High Value
+10424,23,12,2118.24,3,Champions
+10425,16,1,28.15,4,New / Promising
+10426,35,2,103.4,4,New / Promising
+10427,120,2,112.12,1,Lapsed / Low Value
+10428,257,3,228.41,2,At Risk - High Value
+10429,77,5,274.92,0,Loyal
+10430,232,5,204.63,2,At Risk - High Value
+10431,23,16,2209.83,3,Champions
+10432,74,2,132.19,1,Lapsed / Low Value
+10433,186,4,215.25,2,At Risk - High Value
+10434,37,1,21.79,4,New / Promising
+10435,18,10,1455.42,3,Champions
+10436,114,2,152.32,1,Lapsed / Low Value
+10437,45,2,175.65,1,Lapsed / Low Value
+10438,72,4,374.63,0,Loyal
+10439,7,16,1605.84,3,Champions
+10440,64,3,221.73,2,At Risk - High Value
+10441,24,4,119.09,0,Loyal
+10442,19,7,582.9200000000001,0,Loyal
+10443,15,1,11.6,4,New / Promising
+10444,16,8,721.8,3,Champions
+10445,68,2,100.53,1,Lapsed / Low Value
+10446,217,4,275.07,2,At Risk - High Value
+10447,222,5,157.87,2,At Risk - High Value
+10448,88,4,174.9,2,At Risk - High Value
+10449,274,4,257.95000000000005,2,At Risk - High Value
+10450,169,1,73.28999999999999,1,Lapsed / Low Value
+10451,88,4,125.22,2,At Risk - High Value
+10452,204,4,354.43,2,At Risk - High Value
+10453,197,5,137.55,2,At Risk - High Value
+10454,109,3,191.43,2,At Risk - High Value
+10455,178,1,10.18,1,Lapsed / Low Value
+10456,134,3,147.13,2,At Risk - High Value
+10457,94,3,198.79000000000002,2,At Risk - High Value
+10458,359,4,239.70000000000002,2,At Risk - High Value
+10459,37,5,300.99,0,Loyal
+10460,40,3,71.53999999999999,1,Lapsed / Low Value
+10461,208,3,234.07,2,At Risk - High Value
+10462,182,2,145.1,1,Lapsed / Low Value
+10463,69,4,86.66,1,Lapsed / Low Value
+10464,300,5,422.13,2,At Risk - High Value
+10465,181,2,48.120000000000005,1,Lapsed / Low Value
+10466,239,6,400.89,2,At Risk - High Value
+10467,315,4,200.19,2,At Risk - High Value
+10468,125,1,41.97,1,Lapsed / Low Value
+10469,279,5,385.9,2,At Risk - High Value
+10470,27,19,2329.07,3,Champions
+10471,80,1,45.4,1,Lapsed / Low Value
+10472,38,1,53.35,4,New / Promising
+10473,84,5,285.71,2,At Risk - High Value
+10474,115,1,61.89,1,Lapsed / Low Value
+10475,222,6,500.62,2,At Risk - High Value
+10476,352,4,310.33,2,At Risk - High Value
+10477,164,1,104.44,1,Lapsed / Low Value
+10478,168,4,271.03,2,At Risk - High Value
+10479,40,5,208.46,0,Loyal
+10480,41,12,727.29,3,Champions
+10481,58,9,705.14,0,Loyal
+10482,59,6,363.88,0,Loyal
+10483,18,1,51.050000000000004,4,New / Promising
+10484,128,4,239.11,2,At Risk - High Value
+10485,105,3,255.59,2,At Risk - High Value
+10486,162,1,62.42999999999999,1,Lapsed / Low Value
+10487,194,7,412.69,2,At Risk - High Value
+10488,11,1,30.96,4,New / Promising
+10489,38,2,88.01,4,New / Promising
+10490,36,3,156.63000000000002,0,Loyal
+10491,48,5,356.48,0,Loyal
+10492,28,1,73.3,4,New / Promising
+10493,183,1,70.6,1,Lapsed / Low Value
+10494,315,2,133.94,1,Lapsed / Low Value
+10495,14,10,771.96,3,Champions
+10496,27,1,35.16,4,New / Promising
+10497,59,15,1017.31,3,Champions
+10498,40,3,127.36000000000001,1,Lapsed / Low Value
+10499,45,10,871.17,0,Loyal
+10500,75,2,175.38,1,Lapsed / Low Value
+10501,336,1,77.58,1,Lapsed / Low Value
+10502,262,3,316.95,2,At Risk - High Value
+10503,106,1,41.5,1,Lapsed / Low Value
+10504,237,5,269.96,2,At Risk - High Value
+10505,180,2,136.86,1,Lapsed / Low Value
+10506,104,2,180.24,1,Lapsed / Low Value
+10507,124,7,320.26,2,At Risk - High Value
+10508,6,9,595.75,3,Champions
+10509,7,13,887.36,3,Champions
+10510,345,6,599.9300000000001,2,At Risk - High Value
+10511,290,5,184.34,2,At Risk - High Value
+10512,19,9,1047.25,3,Champions
+10513,230,6,366.94000000000005,2,At Risk - High Value
+10514,331,5,333.4,2,At Risk - High Value
+10515,87,3,210.56,2,At Risk - High Value
+10516,2,10,1133.51,3,Champions
+10517,218,3,320.03999999999996,2,At Risk - High Value
+10518,56,13,926.7,3,Champions
+10519,110,1,11.4,1,Lapsed / Low Value
+10520,39,2,22.29,4,New / Promising
+10521,81,4,251.86,2,At Risk - High Value
+10522,48,10,707.86,0,Loyal
+10523,171,1,89.35000000000001,1,Lapsed / Low Value
+10524,117,4,229.27,2,At Risk - High Value
+10525,79,2,82.72999999999999,1,Lapsed / Low Value
+10526,16,3,120.7,4,New / Promising
+10527,27,2,140.76,4,New / Promising
+10528,19,4,236.53,0,Loyal
+10529,45,6,435.06000000000006,0,Loyal
+10530,51,9,806.62,0,Loyal
+10531,16,20,1829.12,3,Champions
+10532,99,5,354.29,2,At Risk - High Value
+10533,296,2,74.34,1,Lapsed / Low Value
+10534,184,3,211.04000000000002,2,At Risk - High Value
+10535,40,9,601.71,0,Loyal
+10536,54,5,456.32,0,Loyal
+10537,91,1,27.66,1,Lapsed / Low Value
+10538,339,2,70.91,1,Lapsed / Low Value
+10539,56,2,183.92,1,Lapsed / Low Value
+10540,9,4,180.44,0,Loyal
+10541,321,5,396.75,2,At Risk - High Value
+10542,106,4,183.83999999999997,2,At Risk - High Value
+10543,303,1,33.91,1,Lapsed / Low Value
+10544,308,5,339.34,2,At Risk - High Value
+10545,126,3,81.35000000000001,1,Lapsed / Low Value
+10546,41,6,702.6800000000001,0,Loyal
+10547,66,1,93.9,1,Lapsed / Low Value
+10548,150,3,372.36,2,At Risk - High Value
+10549,58,5,415.53999999999996,0,Loyal
+10550,108,3,245.18,2,At Risk - High Value
+10551,66,3,109.89,1,Lapsed / Low Value
+10552,52,10,710.54,0,Loyal
+10553,8,4,130.48000000000002,0,Loyal
+10554,51,3,299.59999999999997,0,Loyal
+10555,17,10,764.41,3,Champions
+10556,28,1,38.400000000000006,4,New / Promising
+10557,18,16,1631.0,3,Champions
+10558,52,5,318.5,0,Loyal
+10559,23,5,317.53,0,Loyal
+10560,46,3,104.63,1,Lapsed / Low Value
+10561,13,22,2054.24,3,Champions
+10562,180,2,96.82,1,Lapsed / Low Value
+10563,51,5,395.93,0,Loyal
+10564,45,7,565.37,0,Loyal
+10565,225,3,119.24,1,Lapsed / Low Value
+10566,29,6,405.70000000000005,0,Loyal
+10567,43,5,235.0,0,Loyal
+10568,63,3,207.74,2,At Risk - High Value
+10569,171,2,86.75,1,Lapsed / Low Value
+10570,350,2,86.08,1,Lapsed / Low Value
+10571,55,7,533.63,0,Loyal
+10572,31,1,40.96,4,New / Promising
+10573,20,1,27.86,4,New / Promising
+10574,255,4,194.94,2,At Risk - High Value
+10575,3,17,1422.51,3,Champions
+10576,289,1,16.86,1,Lapsed / Low Value
+10577,79,8,672.73,0,Loyal
+10578,306,1,71.95,1,Lapsed / Low Value
+10579,51,6,389.36,0,Loyal
+10580,27,1,63.9,4,New / Promising
+10581,32,1,31.77,4,New / Promising
+10582,40,3,244.38,0,Loyal
+10583,40,6,311.72,0,Loyal
+10584,6,10,1078.0700000000002,3,Champions
+10585,343,2,161.24,1,Lapsed / Low Value
+10586,11,1,130.29999999999998,4,New / Promising
+10587,10,2,171.75,4,New / Promising
+10588,82,3,86.33,1,Lapsed / Low Value
+10589,340,5,316.04,2,At Risk - High Value
+10590,359,2,135.88,1,Lapsed / Low Value
+10591,103,1,24.93,1,Lapsed / Low Value
+10592,3,1,48.2,4,New / Promising
+10593,88,4,197.56,2,At Risk - High Value
+10594,149,2,86.87,1,Lapsed / Low Value
+10595,41,4,102.80000000000001,0,Loyal
+10596,21,18,2138.63,3,Champions
+10597,359,3,201.15,2,At Risk - High Value
+10598,191,5,521.0799999999999,2,At Risk - High Value
+10599,185,5,418.45,2,At Risk - High Value
+10600,10,1,29.12,4,New / Promising
+10601,187,2,118.28,1,Lapsed / Low Value
+10602,109,3,226.02,2,At Risk - High Value
+10603,25,15,1264.23,3,Champions
+10604,36,8,544.6700000000001,0,Loyal
+10605,58,9,602.5500000000001,0,Loyal
+10606,25,7,437.15,0,Loyal
+10607,98,3,257.90000000000003,2,At Risk - High Value
+10608,33,1,36.12,4,New / Promising
+10609,28,6,528.75,0,Loyal
+10610,20,1,11.08,4,New / Promising
+10611,180,2,43.73,1,Lapsed / Low Value
+10612,10,1,30.8,4,New / Promising
+10613,173,4,232.07,2,At Risk - High Value
+10614,7,13,1286.6599999999999,3,Champions
+10615,351,8,801.43,2,At Risk - High Value
+10616,58,10,879.37,0,Loyal
+10617,52,6,760.96,0,Loyal
+10618,349,2,145.01,1,Lapsed / Low Value
+10619,250,2,120.63000000000001,1,Lapsed / Low Value
+10620,15,4,354.38,0,Loyal
+10621,36,6,309.74,0,Loyal
+10622,9,1,47.72,4,New / Promising
+10623,54,9,424.77,0,Loyal
+10624,342,7,641.09,2,At Risk - High Value
+10625,20,6,742.1,0,Loyal
+10626,358,3,211.58999999999997,2,At Risk - High Value
+10627,5,8,593.16,3,Champions
+10628,45,4,205.07,0,Loyal
+10629,1,10,1233.81,3,Champions
+10630,168,1,8.43,1,Lapsed / Low Value
+10631,291,3,249.58999999999997,2,At Risk - High Value
+10632,2,16,1481.46,3,Champions
+10633,32,8,672.88,0,Loyal
+10634,313,4,142.57,2,At Risk - High Value
+10635,76,1,26.46,1,Lapsed / Low Value
+10636,39,10,929.03,3,Champions
+10637,150,5,453.08,2,At Risk - High Value
+10638,166,4,199.9,2,At Risk - High Value
+10639,25,1,29.8,4,New / Promising
+10640,12,9,543.24,3,Champions
+10641,352,6,210.4,2,At Risk - High Value
+10642,84,3,179.32000000000002,2,At Risk - High Value
+10643,215,5,274.98,2,At Risk - High Value
+10644,144,3,246.59,2,At Risk - High Value
+10645,348,6,331.34000000000003,2,At Risk - High Value
+10646,320,1,52.44,1,Lapsed / Low Value
+10647,104,2,57.21,1,Lapsed / Low Value
+10648,13,17,1888.06,3,Champions
+10649,10,1,19.8,4,New / Promising
+10650,318,2,140.85000000000002,1,Lapsed / Low Value
+10651,40,5,422.59000000000003,0,Loyal
+10652,326,4,229.69,2,At Risk - High Value
+10653,21,4,452.04999999999995,0,Loyal
+10654,89,1,178.1,1,Lapsed / Low Value
+10655,2,1,29.009999999999998,4,New / Promising
+10656,40,3,175.11999999999998,0,Loyal
+10657,56,6,425.83,0,Loyal
+10658,41,8,671.4,0,Loyal
+10659,25,15,1623.8300000000002,3,Champions
+10660,16,11,618.29,3,Champions
+10661,45,8,538.02,0,Loyal
+10662,47,11,990.33,3,Champions
+10663,9,9,796.4,3,Champions
+10664,77,2,86.25,1,Lapsed / Low Value
+10665,12,9,668.23,3,Champions
+10666,296,2,72.17,1,Lapsed / Low Value
+10667,30,1,42.14,4,New / Promising
+10668,15,3,62.0,4,New / Promising
+10669,128,4,193.16,2,At Risk - High Value
+10670,137,2,36.17,1,Lapsed / Low Value
+10671,2,15,2122.9700000000003,3,Champions
+10672,20,5,401.47,0,Loyal
+10673,38,1,12.52,4,New / Promising
+10674,194,3,181.46,2,At Risk - High Value
+10675,212,4,191.41,2,At Risk - High Value
+10676,10,12,1225.67,3,Champions
+10677,125,1,40.9,1,Lapsed / Low Value
+10678,15,2,74.74000000000001,4,New / Promising
+10679,23,1,18.64,4,New / Promising
+10680,7,11,1483.09,3,Champions
+10681,99,6,232.28,2,At Risk - High Value
+10682,51,6,246.68,0,Loyal
+10683,294,6,296.08,2,At Risk - High Value
+10684,11,18,2211.2,3,Champions
+10685,16,10,810.71,3,Champions
+10686,195,6,542.89,2,At Risk - High Value
+10687,47,4,119.61,0,Loyal
+10688,184,3,85.78,1,Lapsed / Low Value
+10689,37,2,166.13,1,Lapsed / Low Value
+10690,23,9,628.5,0,Loyal
+10691,18,14,1648.61,3,Champions
+10692,71,1,39.68,1,Lapsed / Low Value
+10693,7,3,119.4,4,New / Promising
+10694,4,16,1316.73,3,Champions
+10695,121,1,27.94,1,Lapsed / Low Value
+10696,6,2,182.73000000000002,4,New / Promising
+10697,196,2,83.6,1,Lapsed / Low Value
+10698,144,3,150.17,2,At Risk - High Value
+10699,196,4,108.14,2,At Risk - High Value
+10700,97,2,59.67,1,Lapsed / Low Value
+10701,219,5,300.94,2,At Risk - High Value
+10702,42,2,153.24,1,Lapsed / Low Value
+10703,222,4,385.27000000000004,2,At Risk - High Value
+10704,67,5,204.01,0,Loyal
+10705,33,7,439.78999999999996,0,Loyal
+10706,166,4,356.17,2,At Risk - High Value
+10707,134,1,74.88,1,Lapsed / Low Value
+10708,22,5,277.08000000000004,0,Loyal
+10709,36,3,254.91,0,Loyal
+10710,209,3,42.11,1,Lapsed / Low Value
+10711,28,7,417.5,0,Loyal
+10712,112,3,135.28,1,Lapsed / Low Value
+10713,354,4,275.78000000000003,2,At Risk - High Value
+10714,110,2,114.0,1,Lapsed / Low Value
+10715,9,9,622.85,3,Champions
+10716,91,1,76.62,1,Lapsed / Low Value
+10717,103,3,186.76000000000002,2,At Risk - High Value
+10718,186,2,142.41,1,Lapsed / Low Value
+10719,81,3,132.51999999999998,1,Lapsed / Low Value
+10720,14,4,349.16999999999996,0,Loyal
+10721,214,3,213.12,2,At Risk - High Value
+10722,34,1,9.0,4,New / Promising
+10723,35,8,807.04,0,Loyal
+10724,14,9,997.09,3,Champions
+10725,34,7,242.2,0,Loyal
+10726,340,3,235.52999999999997,2,At Risk - High Value
+10727,31,3,69.34,4,New / Promising
+10728,19,19,1885.42,3,Champions
+10729,114,3,84.32,1,Lapsed / Low Value
+10730,16,7,613.78,0,Loyal
+10731,54,1,47.6,4,New / Promising
+10732,16,2,62.839999999999996,4,New / Promising
+10733,5,9,889.9,3,Champions
+10734,38,9,677.8100000000001,0,Loyal
+10735,192,6,377.14,2,At Risk - High Value
+10736,132,4,185.9,2,At Risk - High Value
+10737,324,3,239.34,2,At Risk - High Value
+10738,147,4,205.26999999999998,2,At Risk - High Value
+10739,16,15,1123.6100000000001,3,Champions
+10740,113,2,63.78,1,Lapsed / Low Value
+10741,39,2,210.8,1,Lapsed / Low Value
+10742,255,1,160.35000000000002,1,Lapsed / Low Value
+10743,28,7,621.12,0,Loyal
+10744,327,4,115.27,2,At Risk - High Value
+10745,22,6,362.51,0,Loyal
+10746,190,5,398.18,2,At Risk - High Value
+10747,13,12,1602.32,3,Champions
+10748,2,1,49.2,4,New / Promising
+10749,33,5,339.99,0,Loyal
+10750,46,2,37.86,4,New / Promising
+10751,192,7,398.56,2,At Risk - High Value
+10752,136,2,192.75,1,Lapsed / Low Value
+10753,54,10,801.3299999999999,0,Loyal
+10754,28,7,388.33,0,Loyal
+10755,57,4,418.18,0,Loyal
+10756,2,17,1763.54,3,Champions
+10757,40,4,271.83,0,Loyal
+10758,31,9,480.94,0,Loyal
+10759,64,2,104.47,1,Lapsed / Low Value
+10760,30,6,266.74,0,Loyal
+10761,184,1,51.88,1,Lapsed / Low Value
+10762,55,5,302.54,0,Loyal
+10763,18,11,816.02,3,Champions
+10764,51,4,357.55,0,Loyal
+10765,197,1,33.12,1,Lapsed / Low Value
+10766,45,10,725.1,0,Loyal
+10767,142,4,127.07,2,At Risk - High Value
+10768,320,4,395.06,2,At Risk - High Value
+10769,92,2,102.83,1,Lapsed / Low Value
+10770,35,1,141.36,4,New / Promising
+10771,20,1,22.26,4,New / Promising
+10772,40,4,214.2,0,Loyal
+10773,218,4,289.04,2,At Risk - High Value
+10774,24,9,773.1999999999999,3,Champions
+10775,30,7,389.65999999999997,0,Loyal
+10776,64,1,39.900000000000006,1,Lapsed / Low Value
+10777,164,1,91.41,1,Lapsed / Low Value
+10778,4,1,16.02,4,New / Promising
+10779,36,4,226.45,0,Loyal
+10780,314,5,325.18,2,At Risk - High Value
+10781,69,3,128.94,1,Lapsed / Low Value
+10782,29,7,538.0799999999999,0,Loyal
+10783,18,1,56.74,4,New / Promising
+10784,302,3,289.41,2,At Risk - High Value
+10785,49,11,1314.07,3,Champions
+10786,37,1,24.56,4,New / Promising
+10787,15,1,102.84,4,New / Promising
+10788,5,12,1602.9,3,Champions
+10789,160,2,129.35,1,Lapsed / Low Value
+10790,12,1,9.58,4,New / Promising
+10791,1,13,1267.65,3,Champions
+10792,25,2,82.46000000000001,4,New / Promising
+10793,67,4,211.95,0,Loyal
+10794,2,9,1121.8899999999999,3,Champions
+10795,198,2,99.14,1,Lapsed / Low Value
+10796,154,5,200.85,2,At Risk - High Value
+10797,41,6,379.14,0,Loyal
+10798,217,3,235.42000000000002,2,At Risk - High Value
+10799,259,7,602.1999999999999,2,At Risk - High Value
+10800,16,3,87.97,4,New / Promising
+10801,10,11,666.51,3,Champions
+10802,340,3,253.88,2,At Risk - High Value
+10803,188,4,124.18,2,At Risk - High Value
+10804,306,5,230.51999999999998,2,At Risk - High Value
+10805,4,1,53.0,4,New / Promising
+10806,2,2,46.27,4,New / Promising
+10807,43,10,748.88,0,Loyal
+10808,168,2,54.7,1,Lapsed / Low Value
+10809,35,1,24.72,4,New / Promising
+10810,3,1,23.8,4,New / Promising
+10811,32,6,209.24,0,Loyal
+10812,10,2,96.78999999999999,4,New / Promising
+10813,142,4,182.94,2,At Risk - High Value
+10814,40,2,63.739999999999995,4,New / Promising
+10815,296,5,498.53999999999996,2,At Risk - High Value
+10816,110,3,139.45,1,Lapsed / Low Value
+10817,37,2,269.40000000000003,0,Loyal
+10818,93,3,183.69,2,At Risk - High Value
+10819,68,2,90.38,1,Lapsed / Low Value
+10820,47,6,495.88,0,Loyal
+10821,6,13,1397.01,3,Champions
+10822,265,7,305.90999999999997,2,At Risk - High Value
+10823,187,3,216.59999999999997,2,At Risk - High Value
+10824,343,3,151.34,2,At Risk - High Value
+10825,210,2,80.47999999999999,1,Lapsed / Low Value
+10826,59,10,519.78,0,Loyal
+10827,47,11,735.5799999999999,0,Loyal
+10828,34,5,306.64,0,Loyal
+10829,57,8,797.56,0,Loyal
+10830,229,6,349.91999999999996,2,At Risk - High Value
+10831,161,7,501.45,2,At Risk - High Value
+10832,107,6,546.3,2,At Risk - High Value
+10833,34,1,34.4,4,New / Promising
+10834,28,4,280.04999999999995,0,Loyal
+10835,38,5,366.86,0,Loyal
+10836,307,6,498.46999999999997,2,At Risk - High Value
+10837,185,4,430.41,2,At Risk - High Value
+10838,51,6,418.09,0,Loyal
+10839,129,3,110.74,1,Lapsed / Low Value
+10840,5,14,1940.31,3,Champions
+10841,113,2,159.20999999999998,1,Lapsed / Low Value
+10842,142,5,238.89,2,At Risk - High Value
+10843,14,10,845.74,3,Champions
+10844,191,3,204.04999999999998,2,At Risk - High Value
+10845,49,2,94.25000000000001,1,Lapsed / Low Value
+10846,87,2,32.32,1,Lapsed / Low Value
+10847,49,4,286.85,0,Loyal
+10848,256,7,379.93,2,At Risk - High Value
+10849,26,15,1670.84,3,Champions
+10850,23,2,216.95999999999998,0,Loyal
+10851,46,9,559.27,0,Loyal
+10852,47,7,454.69,0,Loyal
+10853,51,9,505.84000000000003,0,Loyal
+10854,32,1,84.80000000000001,4,New / Promising
+10855,23,9,667.94,0,Loyal
+10856,70,5,169.41,0,Loyal
+10857,15,1,9.48,4,New / Promising
+10858,20,1,6.54,4,New / Promising
+10859,22,12,1179.31,3,Champions
+10860,162,2,50.14,1,Lapsed / Low Value
+10861,165,4,122.0,2,At Risk - High Value
+10862,313,4,354.58,2,At Risk - High Value
+10863,147,2,123.61,1,Lapsed / Low Value
+10864,114,2,107.50999999999999,1,Lapsed / Low Value
+10865,7,14,1515.5,3,Champions
+10866,29,14,1021.25,3,Champions
+10867,33,6,395.17,0,Loyal
+10868,29,16,1388.55,3,Champions
+10869,12,8,915.6600000000001,3,Champions
+10870,162,2,82.94,1,Lapsed / Low Value
+10871,23,12,1351.33,3,Champions
+10872,1,19,2281.86,3,Champions
+10873,30,1,23.48,4,New / Promising
+10874,144,9,343.64,2,At Risk - High Value
+10875,44,8,857.4,0,Loyal
+10876,281,2,145.38,1,Lapsed / Low Value
+10877,17,14,1027.13,3,Champions
+10878,43,10,719.9,0,Loyal
+10879,19,2,152.14999999999998,4,New / Promising
+10880,34,1,26.759999999999998,4,New / Promising
+10881,88,2,187.42999999999998,1,Lapsed / Low Value
+10882,22,16,2112.67,3,Champions
+10883,49,9,641.48,0,Loyal
+10884,12,12,1046.6599999999999,3,Champions
+10885,9,11,886.84,3,Champions
+10886,7,15,2132.37,3,Champions
+10887,37,7,422.44,0,Loyal
+10888,149,4,82.09,1,Lapsed / Low Value
+10889,53,6,474.92,0,Loyal
+10890,42,7,413.07,0,Loyal
+10891,11,1,45.16,4,New / Promising
+10892,75,2,70.64,1,Lapsed / Low Value
+10893,100,4,254.07000000000002,2,At Risk - High Value
+10894,22,14,1363.47,3,Champions
+10895,312,2,133.01999999999998,1,Lapsed / Low Value
+10896,204,2,55.83,1,Lapsed / Low Value
+10897,126,4,457.35999999999996,2,At Risk - High Value
+10898,196,3,52.83,1,Lapsed / Low Value
+10899,15,5,400.08,0,Loyal
+10900,50,1,54.32,4,New / Promising
+10901,39,1,41.34,4,New / Promising
+10902,6,1,62.400000000000006,4,New / Promising
+10903,267,5,568.63,2,At Risk - High Value
+10904,103,1,23.94,1,Lapsed / Low Value
+10905,115,3,79.82,1,Lapsed / Low Value
+10906,5,14,1501.5,3,Champions
+10907,26,1,102.08,4,New / Promising
+10908,22,13,1357.49,3,Champions
+10909,41,3,159.14,0,Loyal
+10910,284,3,255.07999999999998,2,At Risk - High Value
+10911,248,7,525.78,2,At Risk - High Value
+10912,224,5,289.26,2,At Risk - High Value
+10913,157,3,336.21,2,At Risk - High Value
+10914,6,14,1075.1,3,Champions
+10915,8,24,2692.67,3,Champions
+10916,24,1,24.16,4,New / Promising
+10917,38,2,237.37,0,Loyal
+10918,55,10,704.89,0,Loyal
+10919,23,3,121.86999999999999,4,New / Promising
+10920,138,3,151.60999999999999,2,At Risk - High Value
+10921,24,6,402.15999999999997,0,Loyal
+10922,175,6,250.76999999999998,2,At Risk - High Value
+10923,8,12,1367.79,3,Champions
+10924,143,4,91.18,1,Lapsed / Low Value
+10925,37,8,656.48,0,Loyal
+10926,332,5,272.34000000000003,2,At Risk - High Value
+10927,51,5,373.38,0,Loyal
+10928,9,1,48.949999999999996,4,New / Promising
+10929,25,1,17.6,4,New / Promising
+10930,6,7,466.54999999999995,3,Champions
+10931,37,6,488.95000000000005,0,Loyal
+10932,1,1,76.5,4,New / Promising
+10933,156,6,296.67,2,At Risk - High Value
+10934,26,11,1330.44,3,Champions
+10935,6,22,2407.1,3,Champions
+10936,33,1,11.55,4,New / Promising
+10937,195,6,457.65,2,At Risk - High Value
+10938,6,13,1395.57,3,Champions
+10939,178,3,139.06,2,At Risk - High Value
+10940,193,4,256.65,2,At Risk - High Value
+10941,125,3,193.51,2,At Risk - High Value
+10942,18,2,94.66,4,New / Promising
+10943,29,3,67.16,4,New / Promising
+10944,31,7,744.5600000000001,0,Loyal
+10945,49,4,324.94,0,Loyal
+10946,57,3,219.91,0,Loyal
+10947,236,3,254.74,2,At Risk - High Value
+10948,150,2,69.94999999999999,1,Lapsed / Low Value
+10949,232,3,120.18,2,At Risk - High Value
+10950,163,3,222.73000000000002,2,At Risk - High Value
+10951,58,5,230.05,0,Loyal
+10952,300,5,232.32999999999998,2,At Risk - High Value
+10953,13,16,1564.75,3,Champions
+10954,273,2,122.71,1,Lapsed / Low Value
+10955,32,6,470.21,0,Loyal
+10956,159,1,84.42,1,Lapsed / Low Value
+10957,23,1,44.16,4,New / Promising
+10958,35,3,303.75,0,Loyal
+10959,3,22,2089.95,3,Champions
+10960,55,2,68.85,1,Lapsed / Low Value
+10961,289,1,98.78999999999999,1,Lapsed / Low Value
+10962,19,10,1326.47,3,Champions
+10963,24,9,628.54,0,Loyal
+10964,29,10,1003.19,3,Champions
+10965,166,4,173.3,2,At Risk - High Value
+10966,183,2,13.01,1,Lapsed / Low Value
+10967,48,3,125.64,1,Lapsed / Low Value
+10968,35,10,537.39,0,Loyal
+10969,297,5,311.66,2,At Risk - High Value
+10970,38,13,1171.5700000000002,3,Champions
+10971,10,1,106.5,4,New / Promising
+10972,6,1,5.16,4,New / Promising
+10973,74,2,123.22,1,Lapsed / Low Value
+10974,137,5,242.88,2,At Risk - High Value
+10975,34,1,61.349999999999994,4,New / Promising
+10976,12,5,581.95,0,Loyal
+10977,239,4,210.19,2,At Risk - High Value
+10978,53,7,758.03,0,Loyal
+10979,181,6,691.21,2,At Risk - High Value
+10980,47,1,104.36,1,Lapsed / Low Value
+10981,73,9,670.14,0,Loyal
+10982,37,2,107.18999999999998,1,Lapsed / Low Value
+10983,29,9,707.0,0,Loyal
+10984,263,2,240.71999999999997,2,At Risk - High Value
+10985,157,7,668.48,2,At Risk - High Value
+10986,85,1,94.45,1,Lapsed / Low Value
+10987,73,3,88.92,1,Lapsed / Low Value
+10988,1,12,1284.53,3,Champions
+10989,42,4,345.02,0,Loyal
+10990,186,1,24.4,1,Lapsed / Low Value
+10991,27,9,699.51,0,Loyal
+10992,333,3,404.33,2,At Risk - High Value
+10993,14,1,21.0,4,New / Promising
+10994,36,3,113.58,1,Lapsed / Low Value
+10995,26,2,42.54,4,New / Promising
+10996,300,3,347.35,2,At Risk - High Value
+10997,46,10,659.16,0,Loyal
+10998,20,1,67.92,4,New / Promising
+10999,10,5,351.94,0,Loyal
+11000,25,1,22.97,4,New / Promising
+11001,32,1,31.86,4,New / Promising
+11002,177,8,539.56,2,At Risk - High Value
+11003,170,2,51.01,1,Lapsed / Low Value
+11004,9,1,44.01,4,New / Promising
+11005,107,3,205.92,2,At Risk - High Value
+11006,36,5,244.46,0,Loyal
+11007,6,11,772.24,3,Champions
+11008,41,6,323.54,0,Loyal
+11009,306,2,70.35,1,Lapsed / Low Value
+11010,35,2,43.47,4,New / Promising
+11011,28,3,422.97999999999996,0,Loyal
+11012,19,12,1267.8700000000001,3,Champions
+11013,55,1,32.27,4,New / Promising
+11014,23,7,585.19,0,Loyal
+11015,59,9,791.87,0,Loyal
+11016,42,2,122.2,1,Lapsed / Low Value
+11017,151,4,381.21999999999997,2,At Risk - High Value
+11018,125,2,180.46,1,Lapsed / Low Value
+11019,12,5,539.85,0,Loyal
+11020,350,4,291.93,2,At Risk - High Value
+11021,27,4,308.1,0,Loyal
+11022,144,1,131.35,1,Lapsed / Low Value
+11023,181,10,363.86,2,At Risk - High Value
+11024,23,2,195.0,4,New / Promising
+11025,11,6,620.56,0,Loyal
+11026,212,9,699.79,2,At Risk - High Value
+11027,48,11,808.21,0,Loyal
+11028,32,1,76.89,4,New / Promising
+11029,158,3,123.94,1,Lapsed / Low Value
+11030,103,4,157.66,2,At Risk - High Value
+11031,22,1,23.77,4,New / Promising
+11032,352,8,840.98,2,At Risk - High Value
+11033,1,12,1601.68,3,Champions
+11034,32,4,165.76999999999998,0,Loyal
+11035,1,1,32.04,4,New / Promising
+11036,22,14,1945.76,3,Champions
+11037,53,8,499.30999999999995,0,Loyal
+11038,34,1,187.84,4,New / Promising
+11039,18,9,977.2700000000001,3,Champions
+11040,33,4,363.65999999999997,0,Loyal
+11041,36,2,49.980000000000004,4,New / Promising
+11042,4,16,2206.15,3,Champions
+11043,31,5,317.46000000000004,0,Loyal
+11044,117,2,58.77,1,Lapsed / Low Value
+11045,33,8,547.1,0,Loyal
+11046,31,7,317.21,0,Loyal
+11047,219,5,219.37,2,At Risk - High Value
+11048,267,3,109.78999999999999,1,Lapsed / Low Value
+11049,175,3,57.31,1,Lapsed / Low Value
+11050,33,6,276.12,0,Loyal
+11051,143,4,233.07999999999998,2,At Risk - High Value
+11052,123,5,252.51,2,At Risk - High Value
+11053,164,4,204.57999999999998,2,At Risk - High Value
+11054,20,4,274.31,0,Loyal
+11055,138,2,67.13,1,Lapsed / Low Value
+11056,40,2,118.32000000000001,1,Lapsed / Low Value
+11057,20,3,305.29,0,Loyal
+11058,136,3,136.86,1,Lapsed / Low Value
+11059,300,6,304.07,2,At Risk - High Value
+11060,310,5,365.24,2,At Risk - High Value
+11061,22,7,465.89,0,Loyal
+11062,12,1,27.54,4,New / Promising
+11063,262,5,269.68,2,At Risk - High Value
+11064,102,1,55.16,1,Lapsed / Low Value
+11065,146,1,33.72,1,Lapsed / Low Value
+11066,350,5,282.35,2,At Risk - High Value
+11067,19,6,435.32,0,Loyal
+11068,156,6,258.39,2,At Risk - High Value
+11069,233,4,153.57,2,At Risk - High Value
+11070,71,4,247.95,0,Loyal
+11071,37,3,137.35,0,Loyal
+11072,43,3,110.94,1,Lapsed / Low Value
+11073,111,1,8.81,1,Lapsed / Low Value
+11074,7,4,204.22,0,Loyal
+11075,6,2,107.51,4,New / Promising
+11076,34,4,248.82,0,Loyal
+11077,272,4,263.7,2,At Risk - High Value
+11078,129,5,222.67000000000002,2,At Risk - High Value
+11079,8,2,78.5,4,New / Promising
+11080,30,2,57.08,4,New / Promising
+11081,15,9,1085.8500000000001,3,Champions
+11082,30,1,48.05,4,New / Promising
+11083,57,2,49.059999999999995,1,Lapsed / Low Value
+11084,13,18,2621.43,3,Champions
+11085,73,3,186.0,2,At Risk - High Value
+11086,20,14,1721.2,3,Champions
+11087,109,2,109.68,1,Lapsed / Low Value
+11088,40,6,273.0,0,Loyal
+11089,72,1,23.28,1,Lapsed / Low Value
+11090,38,9,542.6099999999999,0,Loyal
+11091,141,5,207.95,2,At Risk - High Value
+11092,310,4,208.51999999999998,2,At Risk - High Value
+11093,21,1,11.92,4,New / Promising
+11094,98,4,331.93,2,At Risk - High Value
+11095,110,1,65.22,1,Lapsed / Low Value
+11096,8,17,2172.71,3,Champions
+11097,140,1,65.7,1,Lapsed / Low Value
+11098,18,1,28.92,4,New / Promising
+11099,31,5,172.32,0,Loyal
+11100,35,1,6.48,4,New / Promising
+11101,273,5,403.21000000000004,2,At Risk - High Value
+11102,59,10,827.08,0,Loyal
+11103,215,4,211.59,2,At Risk - High Value
+11104,53,12,1236.73,3,Champions
+11105,3,1,38.94,4,New / Promising
+11106,3,11,1269.88,3,Champions
+11107,14,7,521.04,0,Loyal
+11108,211,2,278.03,2,At Risk - High Value
+11109,166,3,179.48,2,At Risk - High Value
+11110,59,9,450.29,0,Loyal
+11111,81,6,333.64,0,Loyal
+11112,49,8,679.03,0,Loyal
+11113,33,3,187.43,0,Loyal
+11114,259,6,499.41,2,At Risk - High Value
+11115,6,1,16.64,4,New / Promising
+11116,25,16,1595.17,3,Champions
+11117,178,2,228.84,2,At Risk - High Value
+11118,20,1,30.04,4,New / Promising
+11119,161,1,49.699999999999996,1,Lapsed / Low Value
+11120,271,8,708.22,2,At Risk - High Value
+11121,27,16,1652.8,3,Champions
+11122,16,1,17.48,4,New / Promising
+11123,135,2,153.8,1,Lapsed / Low Value
+11124,30,1,125.25,4,New / Promising
+11125,285,4,252.27000000000004,2,At Risk - High Value
+11126,27,1,19.98,4,New / Promising
+11127,20,12,1414.78,3,Champions
+11128,311,3,138.33,2,At Risk - High Value
+11129,50,8,908.4000000000001,0,Loyal
+11130,37,5,204.23,0,Loyal
+11131,116,4,385.99,2,At Risk - High Value
+11132,122,3,195.58,2,At Risk - High Value
+11133,74,4,179.43,2,At Risk - High Value
+11134,36,1,16.48,4,New / Promising
+11135,26,11,2007.49,3,Champions
+11136,32,9,803.24,0,Loyal
+11137,122,2,121.63000000000001,1,Lapsed / Low Value
+11138,280,3,130.31,2,At Risk - High Value
+11139,94,1,97.8,1,Lapsed / Low Value
+11140,156,6,181.89,2,At Risk - High Value
+11141,311,1,24.59,1,Lapsed / Low Value
+11142,266,6,317.86,2,At Risk - High Value
+11143,14,8,521.25,0,Loyal
+11144,18,10,616.18,3,Champions
+11145,182,1,18.78,1,Lapsed / Low Value
+11146,24,2,208.32,4,New / Promising
+11147,111,3,152.56,2,At Risk - High Value
+11148,5,9,863.86,3,Champions
+11149,109,2,194.18,1,Lapsed / Low Value
+11150,180,2,190.93,1,Lapsed / Low Value
+11151,183,2,192.83999999999997,1,Lapsed / Low Value
+11152,90,3,75.67,1,Lapsed / Low Value
+11153,38,1,29.06,4,New / Promising
+11154,87,3,72.64,1,Lapsed / Low Value
+11155,172,3,152.51,2,At Risk - High Value
+11156,80,2,142.68,1,Lapsed / Low Value
+11157,34,1,52.08,4,New / Promising
+11158,348,5,369.65999999999997,2,At Risk - High Value
+11159,95,3,95.1,1,Lapsed / Low Value
+11160,356,6,380.53,2,At Risk - High Value
+11161,109,3,181.35000000000002,2,At Risk - High Value
+11162,34,3,89.55,4,New / Promising
+11163,16,5,321.69,0,Loyal
+11164,5,6,660.62,3,Champions
+11165,221,4,152.45999999999998,2,At Risk - High Value
+11166,40,8,755.4,0,Loyal
+11167,274,4,140.38,2,At Risk - High Value
+11168,189,2,93.72000000000001,1,Lapsed / Low Value
+11169,80,1,38.849999999999994,1,Lapsed / Low Value
+11170,17,15,1240.87,3,Champions
+11171,343,3,277.22,2,At Risk - High Value
+11172,23,14,1449.0,3,Champions
+11173,37,1,172.25,4,New / Promising
+11174,5,1,15.809999999999999,4,New / Promising
+11175,41,5,316.74,0,Loyal
+11176,30,11,780.89,3,Champions
+11177,14,1,19.72,4,New / Promising
+11178,175,4,235.73999999999998,2,At Risk - High Value
+11179,59,5,352.45,0,Loyal
+11180,132,4,271.96000000000004,2,At Risk - High Value
+11181,39,10,644.36,0,Loyal
+11182,75,1,14.79,4,New / Promising
+11183,102,3,265.8,2,At Risk - High Value
+11184,15,1,9.2,4,New / Promising
+11185,339,4,256.4,2,At Risk - High Value
+11186,44,5,413.28,0,Loyal
+11187,106,3,243.92,2,At Risk - High Value
+11188,78,4,366.81,0,Loyal
+11189,14,1,98.64000000000001,4,New / Promising
+11190,20,12,1721.89,3,Champions
+11191,165,5,266.34999999999997,2,At Risk - High Value
+11192,6,1,55.68,4,New / Promising
+11193,115,2,59.84,1,Lapsed / Low Value
+11194,6,9,401.67,3,Champions
+11195,121,3,193.84,2,At Risk - High Value
+11196,150,1,48.68,1,Lapsed / Low Value
+11197,28,1,38.88,4,New / Promising
+11198,3,14,1516.8799999999999,3,Champions
+11199,5,5,286.59999999999997,0,Loyal
+11200,10,9,555.82,3,Champions
+11201,232,5,199.11,2,At Risk - High Value
+11202,51,10,637.16,0,Loyal
+11203,26,3,284.7,0,Loyal
+11204,31,1,53.72,4,New / Promising
+11205,27,1,16.04,4,New / Promising
+11206,17,9,501.78000000000003,0,Loyal
+11207,8,12,1183.76,3,Champions
+11208,44,3,198.57999999999998,0,Loyal
+11209,20,1,79.86,4,New / Promising
+11210,226,3,223.78000000000003,2,At Risk - High Value
+11211,23,10,1013.01,3,Champions
+11212,233,1,19.18,1,Lapsed / Low Value
+11213,16,2,44.989999999999995,4,New / Promising
+11214,37,2,75.18,4,New / Promising
+11215,338,2,153.18,1,Lapsed / Low Value
+11216,39,1,25.259999999999998,4,New / Promising
+11217,185,2,159.22,1,Lapsed / Low Value
+11218,167,2,69.67999999999999,1,Lapsed / Low Value
+11219,17,10,1178.71,3,Champions
+11220,327,7,607.47,2,At Risk - High Value
+11221,46,5,433.1,0,Loyal
+11222,176,3,169.7,2,At Risk - High Value
+11223,1,1,16.32,4,New / Promising
+11224,46,2,45.45,4,New / Promising
+11225,44,3,172.14,0,Loyal
+11226,20,1,42.39,4,New / Promising
+11227,57,11,867.72,0,Loyal
+11228,17,1,133.55,4,New / Promising
+11229,34,3,208.76,0,Loyal
+11230,191,2,132.86,1,Lapsed / Low Value
+11231,154,4,222.03,2,At Risk - High Value
+11232,42,5,318.96000000000004,0,Loyal
+11233,37,1,19.34,4,New / Promising
+11234,29,6,529.25,0,Loyal
+11235,24,13,720.03,3,Champions
+11236,34,3,64.28999999999999,4,New / Promising
+11237,130,3,118.92,1,Lapsed / Low Value
+11238,307,5,259.65999999999997,2,At Risk - High Value
+11239,281,5,428.90999999999997,2,At Risk - High Value
+11240,15,17,1609.98,3,Champions
+11241,13,21,2763.58,3,Champions
+11242,125,2,61.28,1,Lapsed / Low Value
+11243,13,11,1454.12,3,Champions
+11244,190,4,225.17,2,At Risk - High Value
+11245,343,3,116.07000000000001,2,At Risk - High Value
+11246,218,7,478.3,2,At Risk - High Value
+11247,77,1,92.89999999999999,1,Lapsed / Low Value
+11248,28,16,1495.13,3,Champions
+11249,9,8,572.78,3,Champions
+11250,3,2,64.64,4,New / Promising
+11251,31,5,401.87,0,Loyal
+11252,90,3,200.72,2,At Risk - High Value
+11253,14,7,891.87,3,Champions
+11254,4,2,73.50999999999999,4,New / Promising
+11255,34,5,121.28,0,Loyal
+11256,182,6,531.88,2,At Risk - High Value
+11257,164,2,39.8,1,Lapsed / Low Value
+11258,199,5,460.95,2,At Risk - High Value
+11259,15,1,27.04,4,New / Promising
+11260,359,3,129.31,2,At Risk - High Value
+11261,173,2,153.15,1,Lapsed / Low Value
+11262,29,11,1086.48,3,Champions
+11263,323,6,416.01,2,At Risk - High Value
+11264,25,1,19.45,4,New / Promising
+11265,14,18,1714.54,3,Champions
+11266,210,2,86.61,1,Lapsed / Low Value
+11267,13,9,374.01,0,Loyal
+11268,86,4,172.2,2,At Risk - High Value
+11269,156,4,121.9,2,At Risk - High Value
+11270,117,3,405.95,2,At Risk - High Value
+11271,24,1,87.04,4,New / Promising
+11272,180,5,371.71,2,At Risk - High Value
+11273,174,1,96.44999999999999,1,Lapsed / Low Value
+11274,359,5,345.40999999999997,2,At Risk - High Value
+11275,187,4,239.1,2,At Risk - High Value
+11276,73,2,109.05000000000001,1,Lapsed / Low Value
+11277,121,6,236.48,2,At Risk - High Value
+11278,180,4,255.66,2,At Risk - High Value
+11279,10,10,774.8,3,Champions
+11280,54,10,598.92,0,Loyal
+11281,41,6,584.93,0,Loyal
+11282,103,1,81.17999999999999,1,Lapsed / Low Value
+11283,51,13,861.25,3,Champions
+11284,339,9,643.36,2,At Risk - High Value
+11285,181,4,403.69000000000005,2,At Risk - High Value
+11286,78,4,129.44,2,At Risk - High Value
+11287,87,6,265.36,0,Loyal
+11288,26,1,103.2,4,New / Promising
+11289,173,2,54.660000000000004,1,Lapsed / Low Value
+11290,43,2,177.17,1,Lapsed / Low Value
+11291,56,6,208.55999999999997,0,Loyal
+11292,294,6,235.7,2,At Risk - High Value
+11293,37,2,96.34,4,New / Promising
+11294,45,12,884.72,3,Champions
+11295,28,1,73.04,4,New / Promising
+11296,287,3,293.9,2,At Risk - High Value
+11297,211,5,370.11,2,At Risk - High Value
+11298,187,4,128.76,2,At Risk - High Value
+11299,6,1,13.46,4,New / Promising
+11300,73,1,77.84,1,Lapsed / Low Value
+11301,293,3,213.37,2,At Risk - High Value
+11302,21,11,509.48,3,Champions
+11303,93,2,51.05,1,Lapsed / Low Value
+11304,223,6,298.8,2,At Risk - High Value
+11305,8,8,347.98,0,Loyal
+11306,19,22,2571.34,3,Champions
+11307,336,3,223.65999999999997,2,At Risk - High Value
+11308,182,5,181.07000000000002,2,At Risk - High Value
+11309,214,2,120.41,1,Lapsed / Low Value
+11310,143,2,65.92,1,Lapsed / Low Value
+11311,358,3,184.48000000000002,2,At Risk - High Value
+11312,16,10,1038.64,3,Champions
+11313,199,3,231.92,2,At Risk - High Value
+11314,77,2,254.9,1,Lapsed / Low Value
+11315,35,5,283.89,0,Loyal
+11316,39,4,238.63,0,Loyal
+11317,58,10,622.21,0,Loyal
+11318,225,3,123.86999999999999,2,At Risk - High Value
+11319,101,2,14.93,1,Lapsed / Low Value
+11320,342,9,432.11,2,At Risk - High Value
+11321,48,2,99.18,1,Lapsed / Low Value
+11322,10,12,1005.64,3,Champions
+11323,66,2,147.51,1,Lapsed / Low Value
+11324,127,1,36.87,1,Lapsed / Low Value
+11325,36,1,16.44,4,New / Promising
+11326,23,1,69.36,4,New / Promising
+11327,19,12,2036.41,3,Champions
+11328,192,5,160.22000000000003,2,At Risk - High Value
+11329,50,9,740.86,0,Loyal
+11330,247,7,488.12,2,At Risk - High Value
+11331,48,1,12.42,4,New / Promising
+11332,136,1,41.67,1,Lapsed / Low Value
+11333,99,7,310.61,2,At Risk - High Value
+11334,120,3,91.4,1,Lapsed / Low Value
+11335,318,3,279.07,2,At Risk - High Value
+11336,151,1,162.95000000000002,1,Lapsed / Low Value
+11337,190,4,83.01,2,At Risk - High Value
+11338,44,3,243.26,0,Loyal
+11339,188,2,54.22,1,Lapsed / Low Value
+11340,59,4,128.48,0,Loyal
+11341,182,6,207.35999999999999,2,At Risk - High Value
+11342,178,4,216.43,2,At Risk - High Value
+11343,109,2,86.48,1,Lapsed / Low Value
+11344,28,14,1562.1,3,Champions
+11345,80,4,247.02999999999997,2,At Risk - High Value
+11346,13,9,693.14,3,Champions
+11347,171,2,80.92,1,Lapsed / Low Value
+11348,12,16,2428.9,3,Champions
+11349,290,3,226.4,2,At Risk - High Value
+11350,5,1,26.8,4,New / Promising
+11351,42,2,43.4,4,New / Promising
+11352,17,8,634.17,0,Loyal
+11353,125,4,312.99,2,At Risk - High Value
+11354,13,9,619.07,3,Champions
+11355,30,1,16.7,4,New / Promising
+11356,37,10,748.28,0,Loyal
+11357,170,2,98.07,1,Lapsed / Low Value
+11358,140,7,440.16999999999996,2,At Risk - High Value
+11359,46,5,329.99,0,Loyal
+11360,13,3,266.09000000000003,0,Loyal
+11361,10,14,1003.14,3,Champions
+11362,340,2,246.76,2,At Risk - High Value
+11363,34,1,59.74,4,New / Promising
+11364,179,1,18.42,1,Lapsed / Low Value
+11365,253,5,293.53999999999996,2,At Risk - High Value
+11366,34,9,631.76,0,Loyal
+11367,60,6,258.01,0,Loyal
+11368,135,1,56.68,1,Lapsed / Low Value
+11369,9,7,869.58,3,Champions
+11370,302,3,161.86,2,At Risk - High Value
+11371,212,5,255.47,2,At Risk - High Value
+11372,46,6,283.46000000000004,0,Loyal
+11373,55,4,347.96999999999997,0,Loyal
+11374,298,5,320.83000000000004,2,At Risk - High Value
+11375,21,3,89.87,4,New / Promising
+11376,31,2,55.76,4,New / Promising
+11377,30,4,224.33999999999997,0,Loyal
+11378,36,1,42.660000000000004,4,New / Promising
+11379,296,6,395.71,2,At Risk - High Value
+11380,170,4,243.31,2,At Risk - High Value
+11381,10,5,381.36,0,Loyal
+11382,38,1,86.64999999999999,4,New / Promising
+11383,61,2,41.16,1,Lapsed / Low Value
+11384,10,1,22.06,4,New / Promising
+11385,19,7,357.08,0,Loyal
+11386,49,3,174.26,0,Loyal
+11387,7,17,2103.42,3,Champions
+11388,210,3,199.74,2,At Risk - High Value
+11389,149,4,126.71000000000001,2,At Risk - High Value
+11390,308,1,15.35,1,Lapsed / Low Value
+11391,50,4,169.95999999999998,0,Loyal
+11392,286,6,258.34000000000003,2,At Risk - High Value
+11393,217,5,301.1,2,At Risk - High Value
+11394,163,4,362.32,2,At Risk - High Value
+11395,52,5,353.0,0,Loyal
+11396,172,1,42.15,1,Lapsed / Low Value
+11397,327,3,365.40999999999997,2,At Risk - High Value
+11398,7,4,393.07,0,Loyal
+11399,23,18,2529.11,3,Champions
+11400,156,4,112.31,2,At Risk - High Value
+11401,44,4,377.96,0,Loyal
+11402,181,1,81.48,1,Lapsed / Low Value
+11403,181,5,250.62,2,At Risk - High Value
+11404,26,1,24.26,4,New / Promising
+11405,264,2,112.22,1,Lapsed / Low Value
+11406,84,2,76.55000000000001,1,Lapsed / Low Value
+11407,34,9,693.15,0,Loyal
+11408,268,1,69.8,1,Lapsed / Low Value
+11409,187,7,610.16,2,At Risk - High Value
+11410,229,5,238.57,2,At Risk - High Value
+11411,191,8,332.6,2,At Risk - High Value
+11412,248,5,296.12,2,At Risk - High Value
+11413,44,13,1178.04,3,Champions
+11414,244,6,305.73,2,At Risk - High Value
+11415,57,2,101.76,1,Lapsed / Low Value
+11416,100,2,70.68,1,Lapsed / Low Value
+11417,78,2,54.01,1,Lapsed / Low Value
+11418,36,4,412.73,0,Loyal
+11419,102,3,226.84,2,At Risk - High Value
+11420,32,3,184.85,0,Loyal
+11421,161,3,129.12,1,Lapsed / Low Value
+11422,24,1,12.76,4,New / Promising
+11423,348,4,171.89999999999998,2,At Risk - High Value
+11424,214,5,325.49,2,At Risk - High Value
+11425,13,2,26.08,4,New / Promising
+11426,33,5,434.5,0,Loyal
+11427,44,3,168.93,0,Loyal
+11428,27,10,1244.48,3,Champions
+11429,68,1,83.16,1,Lapsed / Low Value
+11430,25,4,192.01999999999998,0,Loyal
+11431,19,19,1824.81,3,Champions
+11432,204,1,85.8,1,Lapsed / Low Value
+11433,31,1,46.08,4,New / Promising
+11434,136,2,109.52000000000001,1,Lapsed / Low Value
+11435,221,4,288.71,2,At Risk - High Value
+11436,194,1,8.6,1,Lapsed / Low Value
+11437,145,1,137.25,1,Lapsed / Low Value
+11438,53,3,187.26999999999998,0,Loyal
+11439,21,6,361.05,0,Loyal
+11440,46,4,117.93,0,Loyal
+11441,36,4,398.84,0,Loyal
+11442,35,1,38.4,4,New / Promising
+11443,132,7,371.31,2,At Risk - High Value
+11444,19,7,380.55,0,Loyal
+11445,11,1,45.94,4,New / Promising
+11446,19,9,772.0699999999999,3,Champions
+11447,9,1,28.6,4,New / Promising
+11448,15,1,78.52,4,New / Promising
+11449,126,1,235.88,1,Lapsed / Low Value
+11450,184,4,264.28,2,At Risk - High Value
+11451,43,5,241.12,0,Loyal
+11452,25,7,476.08,0,Loyal
+11453,44,5,331.69,0,Loyal
+11454,136,1,186.95,1,Lapsed / Low Value
+11455,97,4,294.59,2,At Risk - High Value
+11456,29,3,142.16,0,Loyal
+11457,44,3,45.86,1,Lapsed / Low Value
+11458,14,1,49.0,4,New / Promising
+11459,202,4,374.89,2,At Risk - High Value
+11460,16,5,192.70999999999998,0,Loyal
+11461,180,2,34.84,1,Lapsed / Low Value
+11462,44,6,344.38,0,Loyal
+11463,19,15,1426.38,3,Champions
+11464,18,1,34.38,4,New / Promising
+11465,43,3,175.79999999999998,0,Loyal
+11466,7,6,366.40999999999997,0,Loyal
+11467,36,4,307.4,0,Loyal
+11468,260,3,233.76999999999998,2,At Risk - High Value
+11469,127,5,397.31,2,At Risk - High Value
+11470,5,11,1081.25,3,Champions
+11471,295,6,497.08000000000004,2,At Risk - High Value
+11472,9,10,716.79,3,Champions
+11473,308,3,215.61,2,At Risk - High Value
+11474,74,5,389.87,0,Loyal
+11475,110,4,184.41,2,At Risk - High Value
+11476,124,4,186.60000000000002,2,At Risk - High Value
+11477,334,9,420.0,2,At Risk - High Value
+11478,16,1,68.56,4,New / Promising
+11479,201,3,286.67,2,At Risk - High Value
+11480,9,11,887.85,3,Champions
+11481,103,3,240.37,2,At Risk - High Value
+11482,59,9,654.9,0,Loyal
+11483,5,8,628.04,3,Champions
+11484,52,5,325.08,0,Loyal
+11485,59,3,200.66000000000003,0,Loyal
+11486,4,1,33.48,4,New / Promising
+11487,266,5,617.4100000000001,2,At Risk - High Value
+11488,24,1,93.5,4,New / Promising
+11489,340,2,163.17000000000002,1,Lapsed / Low Value
+11490,27,13,1198.13,3,Champions
+11491,94,4,173.73,2,At Risk - High Value
+11492,118,4,228.97000000000003,2,At Risk - High Value
+11493,12,8,679.14,3,Champions
+11494,77,3,182.14,2,At Risk - High Value
+11495,261,4,243.0,2,At Risk - High Value
+11496,4,14,1308.54,3,Champions
+11497,18,3,300.13,0,Loyal
+11498,89,1,38.54,1,Lapsed / Low Value
+11499,349,2,100.74000000000001,1,Lapsed / Low Value
+11500,52,3,217.78,0,Loyal
+11501,196,6,182.84,2,At Risk - High Value
+11502,20,3,40.839999999999996,4,New / Promising
+11503,10,4,475.72999999999996,0,Loyal
+11504,55,11,724.6099999999999,0,Loyal
+11505,21,2,212.57,4,New / Promising
+11506,252,4,366.39,2,At Risk - High Value
+11507,12,1,97.2,4,New / Promising
+11508,308,3,247.3,2,At Risk - High Value
+11509,18,18,2461.67,3,Champions
+11510,13,8,707.01,3,Champions
+11511,216,3,134.0,2,At Risk - High Value
+11512,11,1,61.2,4,New / Promising
+11513,144,3,151.0,2,At Risk - High Value
+11514,122,4,216.22,2,At Risk - High Value
+11515,79,2,87.69999999999999,1,Lapsed / Low Value
+11516,187,3,117.30000000000001,1,Lapsed / Low Value
+11517,39,1,23.36,4,New / Promising
+11518,172,3,217.03,2,At Risk - High Value
+11519,56,5,321.72,0,Loyal
+11520,18,15,1733.04,3,Champions
+11521,54,3,133.58,1,Lapsed / Low Value
+11522,21,2,138.72,4,New / Promising
+11523,196,1,20.76,1,Lapsed / Low Value
+11524,22,2,136.22,4,New / Promising
+11525,19,17,2160.59,3,Champions
+11526,52,4,227.07,0,Loyal
+11527,303,6,349.44,2,At Risk - High Value
+11528,269,3,165.87,2,At Risk - High Value
+11529,4,11,1121.05,3,Champions
+11530,139,5,261.33,2,At Risk - High Value
+11531,83,4,210.48,2,At Risk - High Value
+11532,352,4,294.9,2,At Risk - High Value
+11533,68,3,106.76,1,Lapsed / Low Value
+11534,51,9,900.63,0,Loyal
+11535,31,1,31.08,4,New / Promising
+11536,132,1,4.44,1,Lapsed / Low Value
+11537,350,6,399.0,2,At Risk - High Value
+11538,68,2,57.66,1,Lapsed / Low Value
+11539,13,15,1679.94,3,Champions
+11540,31,4,170.49,0,Loyal
+11541,4,15,1270.33,3,Champions
+11542,40,6,415.96000000000004,0,Loyal
+11543,36,6,528.4,0,Loyal
+11544,103,3,193.62,2,At Risk - High Value
+11545,75,3,157.01999999999998,1,Lapsed / Low Value
+11546,198,3,205.5,2,At Risk - High Value
+11547,188,2,113.53,1,Lapsed / Low Value
+11548,20,15,1977.84,3,Champions
+11549,16,2,137.7,4,New / Promising
+11550,293,6,469.93,2,At Risk - High Value
+11551,116,2,168.14,1,Lapsed / Low Value
+11552,42,1,29.04,4,New / Promising
+11553,21,8,692.69,0,Loyal
+11554,173,1,33.480000000000004,1,Lapsed / Low Value
+11555,56,6,379.84000000000003,0,Loyal
+11556,15,1,43.24,4,New / Promising
+11557,355,5,285.64,2,At Risk - High Value
+11558,80,4,205.83999999999997,2,At Risk - High Value
+11559,26,10,876.85,3,Champions
+11560,28,3,102.77000000000001,4,New / Promising
+11561,26,9,698.55,0,Loyal
+11562,216,1,31.16,1,Lapsed / Low Value
+11563,4,2,100.28999999999999,4,New / Promising
+11564,244,5,250.33,2,At Risk - High Value
+11565,3,1,8.09,4,New / Promising
+11566,154,6,353.12,2,At Risk - High Value
+11567,245,7,531.76,2,At Risk - High Value
+11568,169,1,16.92,1,Lapsed / Low Value
+11569,29,4,213.73,0,Loyal
+11570,193,5,314.74,2,At Risk - High Value
+11571,118,1,11.91,1,Lapsed / Low Value
+11572,204,1,26.8,1,Lapsed / Low Value
+11573,331,3,256.5,2,At Risk - High Value
+11574,44,5,308.28,0,Loyal
+11575,44,5,449.01,0,Loyal
+11576,138,1,45.089999999999996,1,Lapsed / Low Value
+11577,67,3,244.91,2,At Risk - High Value
+11578,33,1,79.9,4,New / Promising
+11579,3,1,47.72,4,New / Promising
+11580,4,1,22.24,4,New / Promising
+11581,273,4,378.64000000000004,2,At Risk - High Value
+11582,323,2,105.74000000000001,1,Lapsed / Low Value
+11583,57,6,240.69,0,Loyal
+11584,130,5,228.67000000000002,2,At Risk - High Value
+11585,1,15,1696.89,3,Champions
+11586,193,3,150.45,2,At Risk - High Value
+11587,16,6,315.03,0,Loyal
+11588,21,8,729.83,0,Loyal
+11589,33,7,367.70000000000005,0,Loyal
+11590,92,6,229.01,2,At Risk - High Value
+11591,316,5,392.81,2,At Risk - High Value
+11592,15,14,1242.54,3,Champions
+11593,38,9,711.09,0,Loyal
+11594,10,1,58.44,4,New / Promising
+11595,37,1,56.349999999999994,4,New / Promising
+11596,125,9,450.75,2,At Risk - High Value
+11597,190,1,33.06,1,Lapsed / Low Value
+11598,52,11,640.35,0,Loyal
+11599,25,1,99.55,4,New / Promising
+11600,287,3,71.97,1,Lapsed / Low Value
+11601,97,4,116.84,2,At Risk - High Value
+11602,5,6,392.8,0,Loyal
+11603,43,7,438.63,0,Loyal
+11604,199,4,388.63,2,At Risk - High Value
+11605,168,3,63.7,1,Lapsed / Low Value
+11606,18,12,1712.23,3,Champions
+11607,104,3,144.19,1,Lapsed / Low Value
+11608,173,3,131.06,2,At Risk - High Value
+11609,5,6,349.93,0,Loyal
+11610,149,2,234.25,1,Lapsed / Low Value
+11611,43,4,231.51999999999998,0,Loyal
+11612,70,4,205.12,2,At Risk - High Value
+11613,190,6,290.24,2,At Risk - High Value
+11614,103,4,298.72,2,At Risk - High Value
+11615,23,7,632.55,0,Loyal
+11616,313,6,312.15999999999997,2,At Risk - High Value
+11617,128,6,281.84000000000003,2,At Risk - High Value
+11618,92,4,338.33,2,At Risk - High Value
+11619,226,3,536.77,2,At Risk - High Value
+11620,306,6,296.2,2,At Risk - High Value
+11621,351,6,330.0,2,At Risk - High Value
+11622,302,4,474.12,2,At Risk - High Value
+11623,291,2,436.46000000000004,2,At Risk - High Value
+11624,248,6,523.68,2,At Risk - High Value
+11625,36,10,984.38,3,Champions
+11626,353,6,333.19,2,At Risk - High Value
+11627,34,8,650.75,0,Loyal
+11628,37,9,408.83,0,Loyal
+11629,37,7,801.19,0,Loyal
+11630,163,2,202.67000000000002,1,Lapsed / Low Value
+11631,14,8,674.0899999999999,3,Champions
+11632,296,4,300.15,2,At Risk - High Value
+11633,293,5,537.72,2,At Risk - High Value
+11634,183,2,94.11,1,Lapsed / Low Value
+11635,20,10,429.35,0,Loyal
+11636,51,7,478.15,0,Loyal
+11637,298,4,301.38,2,At Risk - High Value
+11638,26,12,1740.03,3,Champions
+11639,57,7,665.04,0,Loyal
+11640,58,7,413.67,0,Loyal
+11641,139,2,46.14,1,Lapsed / Low Value
+11642,26,4,272.15,0,Loyal
+11643,199,2,103.97,1,Lapsed / Low Value
+11644,122,3,198.58,2,At Risk - High Value
+11645,244,6,383.40999999999997,2,At Risk - High Value
+11646,56,1,107.44,1,Lapsed / Low Value
+11647,243,2,235.10000000000002,2,At Risk - High Value
+11648,28,8,662.54,0,Loyal
+11649,271,7,422.03999999999996,2,At Risk - High Value
+11650,334,2,233.6,2,At Risk - High Value
+11651,217,4,335.19,2,At Risk - High Value
+11652,19,9,774.03,3,Champions
+11653,36,3,90.43,1,Lapsed / Low Value
+11654,54,2,56.13,1,Lapsed / Low Value
+11655,50,5,264.97,0,Loyal
+11656,66,2,79.9,1,Lapsed / Low Value
+11657,142,7,376.48,2,At Risk - High Value
+11658,193,2,64.1,1,Lapsed / Low Value
+11659,19,7,636.6,0,Loyal
+11660,6,5,247.86,0,Loyal
+11661,55,3,154.57999999999998,1,Lapsed / Low Value
+11662,346,2,213.38,2,At Risk - High Value
+11663,58,1,35.68,4,New / Promising
+11664,13,17,1522.95,3,Champions
+11665,167,3,75.75999999999999,1,Lapsed / Low Value
+11666,51,12,676.0,0,Loyal
+11667,15,14,1778.4099999999999,3,Champions
+11668,34,1,81.35,4,New / Promising
+11669,55,8,352.90000000000003,0,Loyal
+11670,196,5,287.41,2,At Risk - High Value
+11671,117,5,307.7,2,At Risk - High Value
+11672,27,10,1415.64,3,Champions
+11673,18,1,40.64,4,New / Promising
+11674,16,1,14.54,4,New / Promising
+11675,21,4,361.32,0,Loyal
+11676,82,1,34.68,1,Lapsed / Low Value
+11677,111,3,231.34,2,At Risk - High Value
+11678,10,6,676.4,0,Loyal
+11679,214,4,262.14,2,At Risk - High Value
+11680,266,2,80.96000000000001,1,Lapsed / Low Value
+11681,341,5,390.46000000000004,2,At Risk - High Value
+11682,232,3,139.76000000000002,2,At Risk - High Value
+11683,19,15,1064.38,3,Champions
+11684,52,5,270.84,0,Loyal
+11685,92,2,196.14999999999998,1,Lapsed / Low Value
+11686,273,1,65.8,1,Lapsed / Low Value
+11687,36,1,13.96,4,New / Promising
+11688,117,4,118.37,2,At Risk - High Value
+11689,191,5,263.77,2,At Risk - High Value
+11690,1,14,1414.26,3,Champions
+11691,52,9,584.0699999999999,0,Loyal
+11692,25,8,349.28999999999996,0,Loyal
+11693,30,1,44.62,4,New / Promising
+11694,30,6,496.58000000000004,0,Loyal
+11695,6,9,1088.45,3,Champions
+11696,81,4,107.66999999999999,1,Lapsed / Low Value
+11697,105,2,60.82000000000001,1,Lapsed / Low Value
+11698,7,6,172.78,0,Loyal
+11699,233,2,78.27,1,Lapsed / Low Value
+11700,28,12,1143.34,3,Champions
+11701,228,5,518.9200000000001,2,At Risk - High Value
+11702,18,6,658.46,0,Loyal
+11703,37,1,43.96,4,New / Promising
+11704,57,14,1155.75,3,Champions
+11705,291,2,108.35,1,Lapsed / Low Value
+11706,316,6,346.6,2,At Risk - High Value
+11707,57,5,234.83999999999997,0,Loyal
+11708,1,19,1846.07,3,Champions
+11709,46,1,20.9,4,New / Promising
+11710,59,4,174.51999999999998,0,Loyal
+11711,139,4,164.17000000000002,2,At Risk - High Value
+11712,244,2,101.08,1,Lapsed / Low Value
+11713,139,4,307.15999999999997,2,At Risk - High Value
+11714,118,3,184.47,2,At Risk - High Value
+11715,57,2,178.89999999999998,1,Lapsed / Low Value
+11716,196,1,140.73,1,Lapsed / Low Value
+11717,144,4,212.42,2,At Risk - High Value
+11718,17,5,123.28999999999999,0,Loyal
+11719,46,10,620.16,0,Loyal
+11720,29,9,925.27,3,Champions
+11721,57,6,267.12,0,Loyal
+11722,300,4,303.1,2,At Risk - High Value
+11723,53,5,278.62,0,Loyal
+11724,48,8,425.39,0,Loyal
+11725,115,6,420.58,2,At Risk - High Value
+11726,27,12,804.4,3,Champions
+11727,14,5,683.99,0,Loyal
+11728,160,2,32.04,1,Lapsed / Low Value
+11729,56,3,118.8,1,Lapsed / Low Value
+11730,357,2,171.91,1,Lapsed / Low Value
+11731,17,2,222.03000000000003,4,New / Promising
+11732,31,1,28.26,4,New / Promising
+11733,81,4,284.62,2,At Risk - High Value
+11734,113,5,373.38,2,At Risk - High Value
+11735,199,3,117.55,1,Lapsed / Low Value
+11736,28,2,118.53,4,New / Promising
+11737,4,1,65.69999999999999,4,New / Promising
+11738,18,15,1533.76,3,Champions
+11739,55,5,191.06,0,Loyal
+11740,202,4,325.65,2,At Risk - High Value
+11741,190,3,108.81,1,Lapsed / Low Value
+11742,27,6,564.1999999999999,0,Loyal
+11743,3,2,52.36,4,New / Promising
+11744,48,4,212.82,0,Loyal
+11745,196,1,15.91,1,Lapsed / Low Value
+11746,24,17,1922.8600000000001,3,Champions
+11747,5,3,105.75999999999999,4,New / Promising
+11748,54,12,533.04,0,Loyal
+11749,140,3,198.74,2,At Risk - High Value
+11750,12,1,66.82,4,New / Promising
+11751,6,1,83.5,4,New / Promising
+11752,24,1,36.660000000000004,4,New / Promising
+11753,295,1,21.8,1,Lapsed / Low Value
+11754,27,13,1102.81,3,Champions
+11755,4,12,1186.69,3,Champions
+11756,182,3,217.36,2,At Risk - High Value
+11757,24,19,2918.4,3,Champions
+11758,33,1,25.76,4,New / Promising
+11759,19,13,1601.92,3,Champions
+11760,125,1,63.06,1,Lapsed / Low Value
+11761,23,10,1019.62,3,Champions
+11762,20,13,1387.76,3,Champions
+11763,183,1,12.600000000000001,1,Lapsed / Low Value
+11764,9,18,2098.48,3,Champions
+11765,37,1,37.410000000000004,4,New / Promising
+11766,283,8,354.47,2,At Risk - High Value
+11767,53,4,176.57999999999998,0,Loyal
+11768,342,3,316.39,2,At Risk - High Value
+11769,220,4,97.82000000000001,2,At Risk - High Value
+11770,165,2,89.6,1,Lapsed / Low Value
+11771,225,4,274.6,2,At Risk - High Value
+11772,26,1,42.64,4,New / Promising
+11773,196,4,149.58,2,At Risk - High Value
+11774,87,1,10.33,4,New / Promising
+11775,8,1,10.01,4,New / Promising
+11776,27,2,38.22,4,New / Promising
+11777,156,4,255.64,2,At Risk - High Value
+11778,12,17,2471.65,3,Champions
+11779,30,3,99.56,4,New / Promising
+11780,205,3,113.71000000000001,1,Lapsed / Low Value
+11781,27,6,215.48,0,Loyal
+11782,58,1,221.14999999999998,1,Lapsed / Low Value
+11783,53,12,860.5,3,Champions
+11784,28,1,29.99,4,New / Promising
+11785,78,5,268.62,0,Loyal
+11786,25,7,598.38,0,Loyal
+11787,11,7,652.9300000000001,3,Champions
+11788,129,5,372.74,2,At Risk - High Value
+11789,14,1,25.48,4,New / Promising
+11790,37,7,741.53,0,Loyal
+11791,174,7,341.27,2,At Risk - High Value
+11792,15,2,99.16,4,New / Promising
+11793,25,12,1266.2,3,Champions
+11794,41,5,206.17,0,Loyal
+11795,264,2,69.78,1,Lapsed / Low Value
+11796,21,18,2005.63,3,Champions
+11797,36,1,19.6,4,New / Promising
+11798,254,2,159.54,1,Lapsed / Low Value
+11799,34,9,794.9,0,Loyal
+11800,116,1,20.82,1,Lapsed / Low Value
+11801,121,2,152.39999999999998,1,Lapsed / Low Value
+11802,202,5,519.1,2,At Risk - High Value
+11803,14,7,482.44,0,Loyal
+11804,66,6,313.90999999999997,0,Loyal
+11805,30,6,288.59,0,Loyal
+11806,18,6,419.87,0,Loyal
+11807,50,9,558.82,0,Loyal
+11808,22,1,81.30000000000001,4,New / Promising
+11809,20,1,54.57000000000001,4,New / Promising
+11810,169,1,194.1,1,Lapsed / Low Value
+11811,204,4,166.76999999999998,2,At Risk - High Value
+11812,163,4,195.9,2,At Risk - High Value
+11813,46,3,123.89,1,Lapsed / Low Value
+11814,134,5,279.56,2,At Risk - High Value
+11815,37,1,20.62,4,New / Promising
+11816,195,5,351.45,2,At Risk - High Value
+11817,174,3,133.08,2,At Risk - High Value
+11818,13,3,61.51,4,New / Promising
+11819,27,8,413.71000000000004,0,Loyal
+11820,359,5,236.32000000000002,2,At Risk - High Value
+11821,47,8,717.84,0,Loyal
+11822,218,4,145.16,2,At Risk - High Value
+11823,290,5,320.87,2,At Risk - High Value
+11824,193,2,86.76,1,Lapsed / Low Value
+11825,27,1,67.08,4,New / Promising
+11826,247,3,171.60000000000002,2,At Risk - High Value
+11827,28,1,95.85000000000001,4,New / Promising
+11828,6,9,868.31,3,Champions
+11829,122,6,516.3299999999999,2,At Risk - High Value
+11830,11,6,227.44,0,Loyal
+11831,7,16,1587.05,3,Champions
+11832,127,6,300.05,2,At Risk - High Value
+11833,274,3,241.84,2,At Risk - High Value
+11834,232,4,116.99000000000001,2,At Risk - High Value
+11835,8,11,1656.3,3,Champions
+11836,5,1,51.1,4,New / Promising
+11837,44,8,432.31,0,Loyal
+11838,23,8,448.4,0,Loyal
+11839,322,4,254.89999999999998,2,At Risk - High Value
+11840,23,1,55.5,4,New / Promising
+11841,348,4,162.23,2,At Risk - High Value
+11842,149,2,60.44,1,Lapsed / Low Value
+11843,41,5,265.15,0,Loyal
+11844,327,2,62.8,1,Lapsed / Low Value
+11845,124,3,137.68,1,Lapsed / Low Value
+11846,343,4,206.07,2,At Risk - High Value
+11847,348,5,171.77,2,At Risk - High Value
+11848,138,4,230.22,2,At Risk - High Value
+11849,27,2,53.49,4,New / Promising
+11850,117,2,180.29,1,Lapsed / Low Value
+11851,210,4,415.21000000000004,2,At Risk - High Value
+11852,177,2,146.4,1,Lapsed / Low Value
+11853,185,3,117.44,1,Lapsed / Low Value
+11854,70,1,74.0,1,Lapsed / Low Value
+11855,136,2,148.95000000000002,1,Lapsed / Low Value
+11856,117,2,93.66,1,Lapsed / Low Value
+11857,33,3,136.0,0,Loyal
+11858,23,2,122.63999999999999,4,New / Promising
+11859,39,1,102.03,4,New / Promising
+11860,14,13,1159.82,3,Champions
+11861,14,2,57.31999999999999,4,New / Promising
+11862,94,3,174.73,2,At Risk - High Value
+11863,5,9,435.4,3,Champions
+11864,241,4,148.94,2,At Risk - High Value
+11865,38,4,230.3,0,Loyal
+11866,246,2,40.769999999999996,1,Lapsed / Low Value
+11867,273,3,306.86,2,At Risk - High Value
+11868,108,6,293.77,2,At Risk - High Value
+11869,19,15,1524.39,3,Champions
+11870,298,4,307.13,2,At Risk - High Value
+11871,343,7,496.19,2,At Risk - High Value
+11872,3,1,17.66,4,New / Promising
+11873,26,12,691.87,3,Champions
+11874,284,3,288.88,2,At Risk - High Value
+11875,3,1,26.2,4,New / Promising
+11876,72,5,300.37,0,Loyal
+11877,55,5,253.47,0,Loyal
+11878,116,3,289.07,2,At Risk - High Value
+11879,1,14,1955.04,3,Champions
+11880,54,10,870.34,0,Loyal
+11881,85,2,98.53,1,Lapsed / Low Value
+11882,51,5,488.07000000000005,0,Loyal
+11883,298,4,150.41,2,At Risk - High Value
+11884,35,1,60.3,4,New / Promising
+11885,126,1,105.55,1,Lapsed / Low Value
+11886,52,4,321.74,0,Loyal
+11887,150,1,247.89999999999998,1,Lapsed / Low Value
+11888,203,5,401.24,2,At Risk - High Value
+11889,77,3,189.20999999999998,2,At Risk - High Value
+11890,104,5,277.88,2,At Risk - High Value
+11891,56,1,68.94,1,Lapsed / Low Value
+11892,56,3,97.5,1,Lapsed / Low Value
+11893,28,1,10.94,4,New / Promising
+11894,57,10,741.76,0,Loyal
+11895,61,5,364.63,0,Loyal
+11896,184,5,201.29,2,At Risk - High Value
+11897,9,16,1478.75,3,Champions
+11898,36,1,12.77,4,New / Promising
+11899,168,1,130.75,1,Lapsed / Low Value
+11900,30,9,547.48,0,Loyal
+11901,287,2,77.85000000000001,1,Lapsed / Low Value
+11902,290,4,198.01,2,At Risk - High Value
+11903,129,4,202.97000000000003,2,At Risk - High Value
+11904,34,1,57.800000000000004,4,New / Promising
+11905,23,15,1434.17,3,Champions
+11906,157,2,55.660000000000004,1,Lapsed / Low Value
+11907,236,1,88.10000000000001,1,Lapsed / Low Value
+11908,27,1,36.24,4,New / Promising
+11909,162,2,84.55000000000001,1,Lapsed / Low Value
+11910,83,4,308.59000000000003,2,At Risk - High Value
+11911,56,2,121.26,1,Lapsed / Low Value
+11912,51,1,55.28,4,New / Promising
+11913,135,2,118.55000000000001,1,Lapsed / Low Value
+11914,19,1,16.17,4,New / Promising
+11915,195,2,79.66,1,Lapsed / Low Value
+11916,199,4,177.26,2,At Risk - High Value
+11917,7,1,32.06,4,New / Promising
+11918,2,9,492.81,3,Champions
+11919,250,7,718.19,2,At Risk - High Value
+11920,160,1,136.02,1,Lapsed / Low Value
+11921,289,8,532.16,2,At Risk - High Value
+11922,16,4,236.74,0,Loyal
+11923,62,1,14.03,4,New / Promising
+11924,305,2,119.13,1,Lapsed / Low Value
+11925,25,20,2501.42,3,Champions
+11926,7,7,448.91,3,Champions
+11927,94,4,221.43,2,At Risk - High Value
+11928,26,1,24.12,4,New / Promising
+11929,49,3,290.97,0,Loyal
+11930,291,5,373.53999999999996,2,At Risk - High Value
+11931,58,6,495.33,0,Loyal
+11932,25,10,519.29,0,Loyal
+11933,116,1,207.89999999999998,1,Lapsed / Low Value
+11934,214,7,637.22,2,At Risk - High Value
+11935,34,3,175.82999999999998,0,Loyal
+11936,39,1,68.94999999999999,4,New / Promising
+11937,44,9,575.97,0,Loyal
+11938,294,4,117.67,2,At Risk - High Value
+11939,157,3,82.77,1,Lapsed / Low Value
+11940,83,1,40.74,1,Lapsed / Low Value
+11941,298,2,202.92000000000002,2,At Risk - High Value
+11942,11,1,106.17,4,New / Promising
+11943,187,1,51.52,1,Lapsed / Low Value
+11944,5,3,156.82,4,New / Promising
+11945,27,6,438.3,0,Loyal
+11946,17,6,314.3,0,Loyal
+11947,264,6,591.52,2,At Risk - High Value
+11948,18,6,684.1300000000001,0,Loyal
+11949,194,1,76.0,1,Lapsed / Low Value
+11950,34,2,112.24000000000001,4,New / Promising
+11951,47,12,779.08,3,Champions
+11952,273,6,465.42,2,At Risk - High Value
+11953,309,3,121.52,2,At Risk - High Value
+11954,30,5,357.68,0,Loyal
+11955,40,10,611.8299999999999,0,Loyal
+11956,272,6,608.96,2,At Risk - High Value
+11957,1,2,80.1,4,New / Promising
+11958,38,1,13.88,4,New / Promising
+11959,112,2,122.52,1,Lapsed / Low Value
+11960,43,3,87.16000000000001,1,Lapsed / Low Value
+11961,65,2,259.38,1,Lapsed / Low Value
+11962,42,5,347.05,0,Loyal
+11963,101,1,27.240000000000002,1,Lapsed / Low Value
+11964,10,9,755.75,3,Champions
+11965,54,5,385.73,0,Loyal
+11966,100,4,184.07000000000002,2,At Risk - High Value
+11967,5,13,1475.64,3,Champions
+11968,182,5,542.11,2,At Risk - High Value
+11969,189,7,751.4,2,At Risk - High Value
+11970,199,7,663.59,2,At Risk - High Value
+11971,1,1,16.98,4,New / Promising
+11972,37,2,88.17,4,New / Promising
+11973,119,3,251.06,2,At Risk - High Value
+11974,22,1,87.10000000000001,4,New / Promising
+11975,128,3,110.25999999999999,1,Lapsed / Low Value
+11976,277,3,145.67000000000002,2,At Risk - High Value
+11977,38,6,372.88,0,Loyal
+11978,80,4,178.64000000000001,2,At Risk - High Value
+11979,3,1,52.55,4,New / Promising
+11980,60,1,54.21,1,Lapsed / Low Value
+11981,189,2,69.68,1,Lapsed / Low Value
+11982,289,3,165.23,2,At Risk - High Value
+11983,39,8,611.0699999999999,0,Loyal
+11984,253,6,571.87,2,At Risk - High Value
+11985,24,19,2442.69,3,Champions
+11986,17,8,575.31,0,Loyal
+11987,40,5,272.24,0,Loyal
+11988,12,4,314.25,0,Loyal
+11989,22,1,17.82,4,New / Promising
+11990,23,12,1047.09,3,Champions
+11991,57,8,577.38,0,Loyal
+11992,132,4,175.82999999999998,2,At Risk - High Value
+11993,350,6,506.51,2,At Risk - High Value
+11994,316,3,304.32,2,At Risk - High Value
+11995,151,2,58.879999999999995,1,Lapsed / Low Value
+11996,41,10,573.04,0,Loyal
+11997,32,1,81.85000000000001,4,New / Promising
+11998,32,3,169.05,0,Loyal
+11999,10,13,1429.8999999999999,3,Champions
+12000,40,6,355.07,0,Loyal
+12001,152,3,177.20999999999998,2,At Risk - High Value
+12002,27,1,42.76,4,New / Promising
+12003,328,4,363.99999999999994,2,At Risk - High Value
+12004,86,4,298.98,2,At Risk - High Value
+12005,96,2,282.86,2,At Risk - High Value
+12006,246,3,222.46,2,At Risk - High Value
+12007,51,1,18.48,4,New / Promising
+12008,30,4,329.74,0,Loyal
+12009,12,10,811.09,3,Champions
+12010,56,7,439.83,0,Loyal
+12011,283,2,92.88,1,Lapsed / Low Value
+12012,39,2,100.44,1,Lapsed / Low Value
+12013,291,3,214.29,2,At Risk - High Value
+12014,3,15,1569.89,3,Champions
+12015,15,1,12.06,4,New / Promising
+12016,56,1,54.800000000000004,1,Lapsed / Low Value
+12017,20,1,106.96,4,New / Promising
+12018,128,3,183.1,2,At Risk - High Value
+12019,50,3,161.17000000000002,1,Lapsed / Low Value
+12020,356,3,176.24,2,At Risk - High Value
+12021,190,3,165.79,2,At Risk - High Value
+12022,210,4,179.20000000000002,2,At Risk - High Value
+12023,49,6,383.89,0,Loyal
+12024,52,4,243.21,0,Loyal
+12025,149,2,130.59,1,Lapsed / Low Value
+12026,24,15,2233.04,3,Champions
+12027,38,7,485.47,0,Loyal
+12028,150,2,74.42,1,Lapsed / Low Value
+12029,56,6,280.49,0,Loyal
+12030,342,8,464.39,2,At Risk - High Value
+12031,18,10,784.61,3,Champions
+12032,23,12,1365.74,3,Champions
+12033,4,1,148.28,4,New / Promising
+12034,13,10,805.9300000000001,3,Champions
+12035,118,4,274.85,2,At Risk - High Value
+12036,44,8,748.98,0,Loyal
+12037,12,5,242.61,0,Loyal
+12038,70,2,142.7,1,Lapsed / Low Value
+12039,253,7,589.16,2,At Risk - High Value
+12040,5,9,919.8000000000001,3,Champions
+12041,208,3,160.82,2,At Risk - High Value
+12042,1,1,20.44,4,New / Promising
+12043,131,6,288.90999999999997,2,At Risk - High Value
+12044,54,4,171.3,0,Loyal
+12045,46,3,241.6,0,Loyal
+12046,7,10,687.36,3,Champions
+12047,108,1,46.56,1,Lapsed / Low Value
+12048,19,1,58.6,4,New / Promising
+12049,16,10,1424.05,3,Champions
+12050,230,5,250.42000000000002,2,At Risk - High Value
+12051,287,4,174.6,2,At Risk - High Value
+12052,7,13,1692.95,3,Champions
+12053,23,14,1236.0,3,Champions
+12054,234,10,756.6,2,At Risk - High Value
+12055,269,3,312.95000000000005,2,At Risk - High Value
+12056,50,4,155.84,0,Loyal
+12057,3,2,45.620000000000005,4,New / Promising
+12058,13,12,728.9399999999999,3,Champions
+12059,45,2,97.66999999999999,1,Lapsed / Low Value
+12060,24,8,694.02,0,Loyal
+12061,41,3,248.66000000000003,0,Loyal
+12062,1,13,1105.13,3,Champions
+12063,45,9,671.53,0,Loyal
+12064,336,5,376.3,2,At Risk - High Value
+12065,161,5,298.59000000000003,2,At Risk - High Value
+12066,318,1,60.35,1,Lapsed / Low Value
+12067,269,5,288.49,2,At Risk - High Value
+12068,185,2,75.01,1,Lapsed / Low Value
+12069,54,12,1071.76,3,Champions
+12070,189,9,453.93,2,At Risk - High Value
+12071,9,7,569.8199999999999,3,Champions
+12072,9,8,813.47,3,Champions
+12073,47,2,90.45,1,Lapsed / Low Value
+12074,50,4,226.36999999999998,0,Loyal
+12075,18,11,929.03,3,Champions
+12076,343,2,162.01999999999998,1,Lapsed / Low Value
+12077,357,4,272.08,2,At Risk - High Value
+12078,103,1,15.330000000000002,1,Lapsed / Low Value
+12079,44,2,55.18000000000001,4,New / Promising
+12080,23,9,588.65,0,Loyal
+12081,105,2,119.73,1,Lapsed / Low Value
+12082,109,1,49.92,1,Lapsed / Low Value
+12083,31,1,48.84,4,New / Promising
+12084,23,21,1884.05,3,Champions
+12085,1,1,40.19,4,New / Promising
+12086,17,1,7.62,4,New / Promising
+12087,30,1,16.28,4,New / Promising
+12088,209,6,293.26,2,At Risk - High Value
+12089,278,4,402.07,2,At Risk - High Value
+12090,300,3,165.9,2,At Risk - High Value
+12091,7,8,492.11,3,Champions
+12092,189,5,206.81,2,At Risk - High Value
+12093,6,1,37.46,4,New / Promising
+12094,10,6,617.05,0,Loyal
+12095,50,1,14.56,4,New / Promising
+12096,20,8,794.05,3,Champions
+12097,236,2,67.81,1,Lapsed / Low Value
+12098,239,4,355.35,2,At Risk - High Value
+12099,27,14,1789.41,3,Champions
+12100,209,3,223.37,2,At Risk - High Value
+12101,340,1,15.59,1,Lapsed / Low Value
+12102,50,6,586.15,0,Loyal
+12103,167,4,205.61,2,At Risk - High Value
+12104,298,4,338.20000000000005,2,At Risk - High Value
+12105,82,2,116.71,1,Lapsed / Low Value
+12106,66,2,129.42,1,Lapsed / Low Value
+12107,18,1,32.8,4,New / Promising
+12108,126,1,7.84,1,Lapsed / Low Value
+12109,66,2,72.93,1,Lapsed / Low Value
+12110,6,17,2034.99,3,Champions
+12111,28,7,673.65,0,Loyal
+12112,9,2,158.26999999999998,4,New / Promising
+12113,207,3,142.42000000000002,2,At Risk - High Value
+12114,265,4,262.74,2,At Risk - High Value
+12115,186,3,170.42000000000002,2,At Risk - High Value
+12116,44,7,320.06,0,Loyal
+12117,42,6,477.4,0,Loyal
+12118,244,3,119.92,2,At Risk - High Value
+12119,73,4,299.26,0,Loyal
+12120,148,4,152.34,2,At Risk - High Value
+12121,176,2,169.45000000000002,1,Lapsed / Low Value
+12122,289,2,97.78,1,Lapsed / Low Value
+12123,6,6,726.2,3,Champions
+12124,25,16,2225.08,3,Champions
+12125,7,15,1473.52,3,Champions
+12126,36,6,431.04999999999995,0,Loyal
+12127,37,1,45.38,4,New / Promising
+12128,243,6,284.87,2,At Risk - High Value
+12129,249,9,499.46,2,At Risk - High Value
+12130,105,1,82.56,1,Lapsed / Low Value
+12131,51,9,482.54999999999995,0,Loyal
+12132,58,1,29.36,4,New / Promising
+12133,35,3,243.54,0,Loyal
+12134,194,4,220.2,2,At Risk - High Value
+12135,90,3,111.03999999999999,1,Lapsed / Low Value
+12136,178,4,217.75,2,At Risk - High Value
+12137,6,6,506.96999999999997,0,Loyal
+12138,142,3,258.09000000000003,2,At Risk - High Value
+12139,100,4,147.23000000000002,2,At Risk - High Value
+12140,119,5,277.28000000000003,2,At Risk - High Value
+12141,53,7,320.43,0,Loyal
+12142,307,4,280.18,2,At Risk - High Value
+12143,54,6,585.63,0,Loyal
+12144,58,1,27.05,4,New / Promising
+12145,26,6,543.22,0,Loyal
+12146,233,4,454.72999999999996,2,At Risk - High Value
+12147,98,1,46.36,1,Lapsed / Low Value
+12148,195,8,468.93999999999994,2,At Risk - High Value
+12149,4,1,34.54,4,New / Promising
+12150,339,2,99.82,1,Lapsed / Low Value
+12151,280,3,180.11,2,At Risk - High Value
+12152,86,3,145.37,1,Lapsed / Low Value
+12153,180,3,119.72000000000001,1,Lapsed / Low Value
+12154,112,3,154.95,2,At Risk - High Value
+12155,17,1,8.12,4,New / Promising
+12156,33,1,100.36,4,New / Promising
+12157,306,6,431.88,2,At Risk - High Value
+12158,292,4,160.72,2,At Risk - High Value
+12159,199,3,61.98,1,Lapsed / Low Value
+12160,316,3,251.33,2,At Risk - High Value
+12161,38,6,426.40999999999997,0,Loyal
+12162,17,1,16.18,4,New / Promising
+12163,317,3,241.10000000000002,2,At Risk - High Value
+12164,8,5,309.94,0,Loyal
+12165,17,7,383.53000000000003,0,Loyal
+12166,123,4,241.14999999999998,2,At Risk - High Value
+12167,278,1,121.68,1,Lapsed / Low Value
+12168,43,11,818.63,3,Champions
+12169,16,1,34.82,4,New / Promising
+12170,123,5,311.99,2,At Risk - High Value
+12171,39,1,22.08,4,New / Promising
+12172,289,7,481.39000000000004,2,At Risk - High Value
+12173,142,5,233.51,2,At Risk - High Value
+12174,47,1,10.31,4,New / Promising
+12175,20,11,1138.49,3,Champions
+12176,27,15,1493.65,3,Champions
+12177,37,3,75.69,1,Lapsed / Low Value
+12178,333,6,160.29000000000002,2,At Risk - High Value
+12179,27,1,72.6,4,New / Promising
+12180,130,3,73.37,1,Lapsed / Low Value
+12181,39,1,29.84,4,New / Promising
+12182,50,5,258.84000000000003,0,Loyal
+12183,20,1,24.09,4,New / Promising
+12184,24,1,48.25,4,New / Promising
+12185,8,3,290.34000000000003,0,Loyal
+12186,20,2,130.72,4,New / Promising
+12187,196,8,579.82,2,At Risk - High Value
+12188,293,3,74.59,1,Lapsed / Low Value
+12189,300,5,634.64,2,At Risk - High Value
+12190,115,2,34.14,1,Lapsed / Low Value
+12191,147,6,354.13,2,At Risk - High Value
+12192,118,2,105.77,1,Lapsed / Low Value
+12193,35,3,228.10000000000002,0,Loyal
+12194,19,2,62.330000000000005,4,New / Promising
+12195,18,13,883.55,3,Champions
+12196,328,5,513.33,2,At Risk - High Value
+12197,13,6,350.63,0,Loyal
+12198,45,4,297.39,0,Loyal
+12199,12,6,331.15999999999997,0,Loyal
+12200,199,6,241.42999999999998,2,At Risk - High Value
+12201,7,6,463.39,0,Loyal
+12202,36,7,607.05,0,Loyal
+12203,22,11,819.66,3,Champions
+12204,124,4,235.70999999999998,2,At Risk - High Value
+12205,257,5,402.94000000000005,2,At Risk - High Value
+12206,11,11,790.44,3,Champions
+12207,100,2,104.78999999999999,1,Lapsed / Low Value
+12208,30,3,273.32,0,Loyal
+12209,18,16,1167.02,3,Champions
+12210,31,9,729.95,0,Loyal
+12211,18,2,59.14,4,New / Promising
+12212,24,2,87.18,4,New / Promising
+12213,17,1,97.4,4,New / Promising
+12214,53,8,449.72,0,Loyal
+12215,256,7,592.95,2,At Risk - High Value
+12216,149,5,301.22,2,At Risk - High Value
+12217,37,5,475.69999999999993,0,Loyal
+12218,93,2,55.15,1,Lapsed / Low Value
+12219,37,1,71.01,4,New / Promising
+12220,33,1,29.2,4,New / Promising
+12221,66,2,76.2,1,Lapsed / Low Value
+12222,2,16,1444.31,3,Champions
+12223,6,1,26.28,4,New / Promising
+12224,27,1,90.6,4,New / Promising
+12225,56,2,71.45,1,Lapsed / Low Value
+12226,55,8,610.05,0,Loyal
+12227,121,4,205.81,2,At Risk - High Value
+12228,266,3,415.15999999999997,2,At Risk - High Value
+12229,147,3,409.39,2,At Risk - High Value
+12230,125,5,159.79,2,At Risk - High Value
+12231,56,7,607.86,0,Loyal
+12232,5,2,191.96,4,New / Promising
+12233,11,14,1307.71,3,Champions
+12234,30,8,450.33000000000004,0,Loyal
+12235,25,1,18.32,4,New / Promising
+12236,23,15,1592.37,3,Champions
+12237,359,3,245.99,2,At Risk - High Value
+12238,332,2,130.47,1,Lapsed / Low Value
+12239,31,6,365.28,0,Loyal
+12240,167,1,28.54,1,Lapsed / Low Value
+12241,43,3,290.57,0,Loyal
+12242,233,4,298.56,2,At Risk - High Value
+12243,225,3,119.94,2,At Risk - High Value
+12244,327,5,346.11,2,At Risk - High Value
+12245,117,4,170.3,2,At Risk - High Value
+12246,10,3,312.21,0,Loyal
+12247,36,1,81.8,4,New / Promising
+12248,150,3,98.92,1,Lapsed / Low Value
+12249,287,2,195.38,2,At Risk - High Value
+12250,5,8,404.15,3,Champions
+12251,33,2,62.059999999999995,4,New / Promising
+12252,50,4,235.45999999999998,0,Loyal
+12253,21,1,52.45,4,New / Promising
+12254,39,3,179.2,0,Loyal
+12255,3,2,58.56,4,New / Promising
+12256,34,9,846.75,0,Loyal
+12257,194,3,98.96000000000001,1,Lapsed / Low Value
+12258,44,4,279.12,0,Loyal
+12259,40,3,295.53,0,Loyal
+12260,273,7,443.33,2,At Risk - High Value
+12261,2,14,1328.66,3,Champions
+12262,164,2,41.1,1,Lapsed / Low Value
+12263,17,4,244.82,0,Loyal
+12264,3,1,14.82,4,New / Promising
+12265,17,12,895.63,3,Champions
+12266,61,5,319.5,0,Loyal
+12267,14,1,46.8,4,New / Promising
+12268,279,2,96.63,1,Lapsed / Low Value
+12269,344,4,215.75,2,At Risk - High Value
+12270,38,1,10.46,4,New / Promising
+12271,3,9,1103.6100000000001,3,Champions
+12272,202,3,214.88,2,At Risk - High Value
+12273,351,3,301.79,2,At Risk - High Value
+12274,248,7,316.57,2,At Risk - High Value
+12275,295,1,25.4,1,Lapsed / Low Value
+12276,23,14,1586.6000000000001,3,Champions
+12277,10,16,1426.8600000000001,3,Champions
+12278,337,3,251.52,2,At Risk - High Value
+12279,84,3,163.12,1,Lapsed / Low Value
+12280,39,4,223.06,0,Loyal
+12281,4,21,1927.93,3,Champions
+12282,72,4,260.27,0,Loyal
+12283,6,11,1195.38,3,Champions
+12284,210,3,391.32,2,At Risk - High Value
+12285,133,3,188.69,2,At Risk - High Value
+12286,254,5,245.33,2,At Risk - High Value
+12287,7,10,1345.9,3,Champions
+12288,86,5,198.64999999999998,2,At Risk - High Value
+12289,9,10,890.38,3,Champions
+12290,233,6,356.09000000000003,2,At Risk - High Value
+12291,174,3,137.4,2,At Risk - High Value
+12292,10,12,972.03,3,Champions
+12293,36,1,91.15,4,New / Promising
+12294,241,3,408.44000000000005,2,At Risk - High Value
+12295,191,5,305.38,2,At Risk - High Value
+12296,21,1,11.71,4,New / Promising
+12297,135,3,156.31,2,At Risk - High Value
+12298,20,1,126.8,4,New / Promising
+12299,50,8,439.24,0,Loyal
+12300,17,2,28.82,4,New / Promising
+12301,7,18,1774.85,3,Champions
+12302,243,5,357.31,2,At Risk - High Value
+12303,56,7,538.33,0,Loyal
+12304,113,9,478.19,0,Loyal
+12305,140,3,174.63,2,At Risk - High Value
+12306,11,18,1961.66,3,Champions
+12307,10,1,71.67,4,New / Promising
+12308,44,4,236.66,0,Loyal
+12309,335,4,326.69000000000005,2,At Risk - High Value
+12310,43,5,636.03,0,Loyal
+12311,86,4,194.38,2,At Risk - High Value
+12312,143,2,20.840000000000003,1,Lapsed / Low Value
+12313,27,5,361.24,0,Loyal
+12314,34,1,25.16,4,New / Promising
+12315,30,2,63.75,4,New / Promising
+12316,294,1,119.85,1,Lapsed / Low Value
+12317,333,1,29.65,1,Lapsed / Low Value
+12318,291,7,692.8199999999999,2,At Risk - High Value
+12319,35,11,783.77,3,Champions
+12320,5,14,943.3199999999999,3,Champions
+12321,139,1,94.71000000000001,1,Lapsed / Low Value
+12322,29,5,138.55,0,Loyal
+12323,10,12,1243.81,3,Champions
+12324,3,1,11.99,4,New / Promising
+12325,53,4,243.87,0,Loyal
+12326,126,1,11.88,1,Lapsed / Low Value
+12327,36,11,1038.6599999999999,3,Champions
+12328,310,6,319.29,2,At Risk - High Value
+12329,175,1,32.24,1,Lapsed / Low Value
+12330,35,10,633.97,0,Loyal
+12331,13,1,63.05,4,New / Promising
+12332,39,1,71.18,4,New / Promising
+12333,38,2,19.37,4,New / Promising
+12334,299,6,251.71999999999997,2,At Risk - High Value
+12335,133,5,319.0,2,At Risk - High Value
+12336,24,7,454.34,0,Loyal
+12337,180,5,307.41999999999996,2,At Risk - High Value
+12338,35,6,488.95,0,Loyal
+12339,192,2,180.95,1,Lapsed / Low Value
+12340,4,9,734.6899999999999,3,Champions
+12341,25,5,621.8299999999999,0,Loyal
+12342,359,5,200.11,2,At Risk - High Value
+12343,127,3,189.20999999999998,2,At Risk - High Value
+12344,325,5,227.20999999999998,2,At Risk - High Value
+12345,223,4,215.88,2,At Risk - High Value
+12346,242,1,63.09,1,Lapsed / Low Value
+12347,113,4,206.28,2,At Risk - High Value
+12348,348,8,529.23,2,At Risk - High Value
+12349,286,4,128.49,2,At Risk - High Value
+12350,35,1,76.17,4,New / Promising
+12351,13,1,13.440000000000001,4,New / Promising
+12352,3,19,2145.64,3,Champions
+12353,17,7,410.27,0,Loyal
+12354,65,3,76.18,1,Lapsed / Low Value
+12355,44,7,460.51000000000005,0,Loyal
+12356,25,7,403.84,0,Loyal
+12357,24,1,26.880000000000003,4,New / Promising
+12358,12,12,1426.3400000000001,3,Champions
+12359,53,14,1013.46,3,Champions
+12360,254,9,387.66999999999996,2,At Risk - High Value
+12361,38,5,435.31,0,Loyal
+12362,37,5,249.42000000000002,0,Loyal
+12363,38,1,13.13,4,New / Promising
+12364,289,6,378.39,2,At Risk - High Value
+12365,111,3,160.48000000000002,2,At Risk - High Value
+12366,47,7,576.6,0,Loyal
+12367,46,8,501.31,0,Loyal
+12368,5,3,56.129999999999995,4,New / Promising
+12369,186,1,63.48,1,Lapsed / Low Value
+12370,6,19,2573.13,3,Champions
+12371,349,3,183.22,2,At Risk - High Value
+12372,35,5,348.09000000000003,0,Loyal
+12373,352,2,94.53,1,Lapsed / Low Value
+12374,50,6,402.27,0,Loyal
+12375,35,7,559.86,0,Loyal
+12376,2,12,1350.8799999999999,3,Champions
+12377,26,2,110.92,4,New / Promising
+12378,16,1,16.48,4,New / Promising
+12379,37,1,42.45,4,New / Promising
+12380,258,2,89.83,1,Lapsed / Low Value
+12381,335,6,331.68,2,At Risk - High Value
+12382,46,7,399.05,0,Loyal
+12383,96,4,313.73,2,At Risk - High Value
+12384,26,1,97.25,4,New / Promising
+12385,22,1,67.8,4,New / Promising
+12386,77,1,78.06,1,Lapsed / Low Value
+12387,269,3,53.980000000000004,1,Lapsed / Low Value
+12388,20,1,36.32,4,New / Promising
+12389,25,1,40.0,4,New / Promising
+12390,50,4,381.1,0,Loyal
+12391,202,2,100.86,1,Lapsed / Low Value
+12392,135,2,112.84,1,Lapsed / Low Value
+12393,132,3,157.04,2,At Risk - High Value
+12394,118,2,241.6,1,Lapsed / Low Value
+12395,26,10,682.97,3,Champions
+12396,4,15,1088.86,3,Champions
+12397,225,7,377.4,2,At Risk - High Value
+12398,248,4,329.51,2,At Risk - High Value
+12399,221,4,362.27,2,At Risk - High Value
+12400,11,5,202.07999999999998,0,Loyal
+12401,5,2,62.07,4,New / Promising
+12402,148,2,48.91,1,Lapsed / Low Value
+12403,5,2,199.61,4,New / Promising
+12404,112,2,90.88,1,Lapsed / Low Value
+12405,50,11,752.33,0,Loyal
+12406,48,1,75.7,4,New / Promising
+12407,37,1,15.809999999999999,4,New / Promising
+12408,38,1,61.66,4,New / Promising
+12409,8,1,13.200000000000001,4,New / Promising
+12410,80,1,55.92,1,Lapsed / Low Value
+12411,23,9,537.97,0,Loyal
+12412,29,1,16.22,4,New / Promising
+12413,243,2,116.64,1,Lapsed / Low Value
+12414,8,1,12.18,4,New / Promising
+12415,151,1,33.14,1,Lapsed / Low Value
+12416,29,5,216.5,0,Loyal
+12417,12,7,376.13,0,Loyal
+12418,21,1,116.32,4,New / Promising
+12419,21,1,87.69999999999999,4,New / Promising
+12420,46,2,63.019999999999996,1,Lapsed / Low Value
+12421,24,3,229.57,0,Loyal
+12422,67,2,29.14,1,Lapsed / Low Value
+12423,64,2,180.8,1,Lapsed / Low Value
+12424,155,1,91.94999999999999,1,Lapsed / Low Value
+12425,50,4,265.76,0,Loyal
+12426,51,8,690.56,0,Loyal
+12427,42,6,381.46999999999997,0,Loyal
+12428,39,8,579.57,0,Loyal
+12429,151,1,143.7,1,Lapsed / Low Value
+12430,53,2,113.61,1,Lapsed / Low Value
+12431,210,2,128.85,1,Lapsed / Low Value
+12432,31,5,390.42,0,Loyal
+12433,142,3,215.85000000000002,2,At Risk - High Value
+12434,44,6,245.48,0,Loyal
+12435,59,7,928.72,0,Loyal
+12436,152,1,34.9,1,Lapsed / Low Value
+12437,140,3,195.95,2,At Risk - High Value
+12438,62,2,86.25,1,Lapsed / Low Value
+12439,15,1,12.0,4,New / Promising
+12440,279,2,217.04,2,At Risk - High Value
+12441,19,5,268.23,0,Loyal
+12442,243,7,338.75,2,At Risk - High Value
+12443,196,1,87.48,1,Lapsed / Low Value
+12444,290,4,185.0,2,At Risk - High Value
+12445,29,8,361.23,0,Loyal
+12446,139,2,63.839999999999996,1,Lapsed / Low Value
+12447,296,4,486.39,2,At Risk - High Value
+12448,337,6,501.5,2,At Risk - High Value
+12449,236,5,385.91999999999996,2,At Risk - High Value
+12450,25,6,288.55,0,Loyal
+12451,289,1,7.21,1,Lapsed / Low Value
+12452,170,3,140.09,2,At Risk - High Value
+12453,294,3,297.82,2,At Risk - High Value
+12454,6,1,39.150000000000006,4,New / Promising
+12455,102,3,173.72,2,At Risk - High Value
+12456,3,1,12.03,4,New / Promising
+12457,37,1,45.25,4,New / Promising
+12458,358,2,109.03999999999999,1,Lapsed / Low Value
+12459,149,2,91.39,1,Lapsed / Low Value
+12460,105,2,159.05,1,Lapsed / Low Value
+12461,57,5,376.53999999999996,0,Loyal
+12462,258,6,349.39,2,At Risk - High Value
+12463,30,2,39.44,4,New / Promising
+12464,18,2,114.87,4,New / Promising
+12465,339,6,500.29999999999995,2,At Risk - High Value
+12466,313,4,317.65,2,At Risk - High Value
+12467,16,13,1665.4299999999998,3,Champions
+12468,22,1,44.050000000000004,4,New / Promising
+12469,32,3,155.78,0,Loyal
+12470,54,9,552.22,0,Loyal
+12471,7,18,1799.33,3,Champions
+12472,280,1,11.37,1,Lapsed / Low Value
+12473,67,2,111.17999999999999,1,Lapsed / Low Value
+12474,85,3,89.18,1,Lapsed / Low Value
+12475,59,8,344.21,0,Loyal
+12476,170,4,258.39,2,At Risk - High Value
+12477,162,4,225.45,2,At Risk - High Value
+12478,244,3,163.42000000000002,2,At Risk - High Value
+12479,193,3,217.54,2,At Risk - High Value
+12480,184,4,519.48,2,At Risk - High Value
+12481,14,8,416.37,0,Loyal
+12482,3,11,1240.81,3,Champions
+12483,11,1,16.8,4,New / Promising
+12484,31,3,128.46,0,Loyal
+12485,68,2,59.17,1,Lapsed / Low Value
+12486,14,1,163.36,4,New / Promising
+12487,181,2,132.7,1,Lapsed / Low Value
+12488,136,5,398.73,2,At Risk - High Value
+12489,105,5,242.02,2,At Risk - High Value
+12490,132,2,75.98,1,Lapsed / Low Value
+12491,108,4,236.74999999999997,2,At Risk - High Value
+12492,43,4,492.9,0,Loyal
+12493,89,3,141.25,1,Lapsed / Low Value
+12494,94,1,26.67,1,Lapsed / Low Value
+12495,6,10,1039.54,3,Champions
+12496,159,2,238.2,2,At Risk - High Value
+12497,26,8,675.6700000000001,0,Loyal
+12498,180,4,154.17,2,At Risk - High Value
+12499,341,1,32.48,1,Lapsed / Low Value

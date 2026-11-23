@@ -1,0 +1,6 @@
+Segment,Customers,Recency,Frequency,Monetary,RevenueShare
+Champions,324,16.0,12.8,1313.0,0.453
+Loyal,567,39.0,6.1,425.0,0.257
+At Risk - High Value,687,217.0,4.5,293.0,0.214
+Lapsed / Low Value,511,151.0,1.9,94.0,0.051
+New / Promising,411,23.0,1.3,56.0,0.025
